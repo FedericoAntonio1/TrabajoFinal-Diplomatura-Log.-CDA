@@ -21,6 +21,8 @@ El trabajo estara referido al abastecimiento terciarizado de cemento, desde el p
 
 ## **_DESARROLLO DEL TRABAJO_**
 
+## Gestión del flujo de Pallets
+
 *_**1.** 
 Situación Actual: Describa en hasta una página la situación actual y el
 problema detectado. Trate de utilizar números (costos,
@@ -58,6 +60,8 @@ Adjunto:
 - Comportamiento del stock del mes de octubre de la sucursal. 
 [ABASTECIMIENTO Loma Negra-HIPERCAT_ OCT23.pdf](https://github.com/FedericoAntonio1/TrabajoFinal-Diplomatura-Log.-CDA/files/13354144/ABASTECIMIENTO.Loma.Negra-HIPERCAT_.OCT23.pdf)
 
+## Proceso de la empresa y gestión logística
+
 *_**2.** 
 Situacion Inicial: Defina el proceso principal de su empresa, sus entradas,
 salidas y la forma de trabajo. Indicar los proveedores,
@@ -67,7 +71,7 @@ a la gestión y sobre todo en cuanto a la gestión
 logística que usted visualiza en su empresa. Debe
 definir al menos las tres principales problemáticas_*
 
-**SITUACION ACTUAL**
+**Situacion actual**
 
 Uniber realiza comercailizacion mayorista y minorista en el rubro de construccion, contando como clientes a empresas contructoras, corralones y consumidor final para el mercado minorista. 
 La empresa tiene proveedores de materiales en todo el país, algunos de ellos son: Loma Negra, Weber, Tensolite, Placo, Cerámica Alberdi, Cañuelas, Zapla y Ternium. 
@@ -75,6 +79,8 @@ Para corralones y empresas constructoras, se les brinda un servicio de entrega e
 
 
 Si hablamos de una de las sucursales de El Sol Materiales, ubicado en San Miguel de Tucuman, el equipo de trafico esta ingregrado con 4 personas especializadas en la entrega de materiales desde sucursal a cliente: 3 administrativos y 1 operarivo; tambien se cuenta con 1 persona responsable de abastecimiento _fabrica-ElSolMateriales_ y entregas de material _fabrica-cliente_. 
+
+**Situacion mejorada**
 
 Para esta sucursal, se presentan *inconvenientes* como la ubicación de los corralones que piden equipos completos a domicilio. Los mismos, tienen accesos muy limitados que imposibilitan las maniobras de los camiones. En estos casos, se deben seleccionar chasis acoplados para un mejor radio de giro. 
 Otros inconvenientes, son los paros de planta de Loma Negra, las propias roturas de los camiones contratados, la complicación con los vendedores que quieren que se entreguen equipos a clientes que aún no tienen orden de compra, además de la lucha constante contra las tarifas de los transportistas que buscan maximizar ganancias mientras la empresa busca disminuir costos.
@@ -84,4 +90,16 @@ Otro inconveniente que presenta el area, a la hora de realizar las entregas, es 
 Otro inconveniente es el canal de informacion y novedades que extiste entre cliente-vendedor-trafico. En un contexto competitivo, el vendedor esta alineado a cerrar ventas sin preocuparse del stock del material, prometiendo un buen servicio de entrega, lo que se traduce a tiempos de entregas de menos de 2 dias. 
 
 ****PUEDO INSERTAR INDICADORES DE ENTREGA, TIEMPOS, PROPORCION DE PENDIENTES, CAIDOS POR STOCKS, TRANSFERENCIA Y COSTO REFERIDOS**
+
+## Funcionamiento de la cadena de abastecimiento
+*_**3.** 
+Situación Actual: Describa gráficamente y en palabras el funcionamiento de
+la cadena de abastecimiento actual de su empresa.
+Situación mejorada: De similar forma, proponga una cadena de
+abastecimiento mejorada, consignando las mejoras
+establecidas y justificando los cambios_*
+
+**Situacion actual**
+
+
 
