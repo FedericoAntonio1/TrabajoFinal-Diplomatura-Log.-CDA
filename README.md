@@ -101,5 +101,10 @@ establecidas y justificando los cambios_*
 
 **Situacion actual**
 
+Describir el funcionamiento de la cadena de abastecimiento actual y proponer una mejora justificando los cambios.
+La cadena de abastecimiento de la empresa funciona de diferentes maneras, específicamente con Loma Negra se utilizan camiones contratados para buscar cemento desde la fabrica (FOB)(transporte agro san Claudio, reinoso, gramajo), y se utiliza fletes de loma negra(CIF)
+Comprar mediante CIF proporciona ventajas significativas como ser una menor gestión administrativa en los envíos (se encarga el proveedor). Sin embargo, solo es posible elegir 2 o 3 destinos fijos, imposibilitando el envío directo a cada cliente. Por otro lado, el FOB permite realizar dichos envíos directos, pero con un costo 6% más caro. 
+Los camiones contratados son mayormente de Tucuman y tienen que ir hasta Catamarca, donde se encuentra la fábrica de Loma Negra, en búsqueda del cemento. En un primer momento, se le pagaba a Transporte Reinoso y Gramajo un plus por la vuelta vacío, lo que quiere decir, que ellos te envían cemento desde la fábrica hasta la sucursal o  a un cliente por un precio, pero además, se suma un precio extra por enviar desde Tucuman hasta la fábrica, por lo que una estrategia de ahorro fue aprovechar el mismo camión que envía cemento desde Catamarca a tucuman , utilizarlo a ese para que lleve materiales desde weber o tensolite hasta la sucursal de Catamarca de uniber, esto a veces no ocurre pero en su mayoría si. 
+Se realizaron mejoras como sectorizar los clientes de Tucuman. Anteriormente, se cobraba el flete al mismo precio para todos los clientes, por lo que se decidió sectorizar por zonas y armar un tarifario con valores diferenciados teniendo en cuenta la cantidad de kilómetros recorridos desde la fábrica al destino.
 
 
