@@ -1,6 +1,6 @@
-#TrabajoFinal-Diplomatura-Log.-CDA#
+##TrabajoFinal-Diplomatura-Log.-CDA##
 
-*Integrantes del grupo Nº 5 - *
+*Integrantes del grupo Nº 5 -*
 
 - Matias Vanni <Matiaasvanni@gmail.com>
 - Joaquin Nougues <joaquinnougues71299@gmail.com>
