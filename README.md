@@ -1,5 +1,4 @@
 #TrabajoFinal-Diplomatura-Log.-CDA#
-**TRABAJO FINAL - DIPLOMATURA DE LOG. Y CDA**
 
 *Integrantes del grupo Nº 5 - *
 
