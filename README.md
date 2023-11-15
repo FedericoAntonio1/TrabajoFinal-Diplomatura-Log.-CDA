@@ -40,9 +40,9 @@ _Datos a tomar en cuenta:_
 - Facturacion de pallets a clientes: 31 tarimas
 
 En el mes de octubre se realizo una compra y abastecimiento de Loma Negra de un total de 726 pallets de cemento, contamos entonces con un limite de 182 pallets (tarimas) como valor de saldo a no superar o igualar, siendo esto la _foto_ a final de mes. 
-Para esta fecha ademas contamos con una saldo pendiente real de 301 pallets. Nos encontramos con una diferencia de 119 tarimas faltantes (una posible facturacion de _$1.011.500_)
+Para esta fecha ademas contamos con una saldo pendiente real de 301 pallets. Nos encontramos con una diferencia de 119 tarimas faltantes (una posible facturacion de _$963.900_)
 
-Hasta el siguiente analisis (en este caso realizado el 06/11), la sucursal debe hacer una devolucion de minimo las 119 tarimas para no incurrir en el costo de tarimas no devueltas a fabrica. Teniendo en cuenta ademas un requerimiento de no incurrir en nuevas salidas de pallets para no hacer crecer el saldo de la sucursal. Esto parece ilogico cuando observamos que en promedio, la sucursal en octubre demando por semana una cantidad de entre 10 a 12 equipos de cemento, con 15 a 17 pallets de cemento en cada uno. Por último comentar que es el mismo transporte que trae cemento a la sucursal el que lleva las tarimas a fabrica.
+Hasta el siguiente analisis (en este caso realizado el 06/11), la sucursal debia hacer una devolucion de minimo las 119 tarimas para no incurrir en el costo de tarimas no devueltas a fabrica. Teniendo en cuenta ademas un requerimiento de no incurrir en nuevas salidas de pallets para no hacer crecer el saldo de la sucursal. Esto parece ilogico cuando observamos que en promedio, la sucursal en octubre demando por semana una cantidad de entre 10 a 12 equipos de cemento, con 15 a 17 pallets de cemento en cada uno. Por último comentar que es el mismo transporte que trae cemento a la sucursal el que lleva las tarimas a fabrica.
 
 _Situación mejorada_
 
