@@ -108,7 +108,7 @@ Los camiones contratados son mayormente de Tucuman y tienen que ir hasta Catamar
 Se realizaron mejoras como sectorizar los clientes de Tucuman. Anteriormente, se cobraba el flete al mismo precio para todos los clientes, por lo que se decidió sectorizar por zonas y armar un tarifario con valores diferenciados teniendo en cuenta la cantidad de kilómetros recorridos desde la fábrica al destino.
 
 ## Gestion de cumplimiento de mercaderia en reparto 
-*_**3.** 
+*_**4.** 
 Situación Actual: Describa brevemente cómo funciona actualmente la
 gestión de operaciones en su proceso principal y al menos
 dos problemáticas abordadas en el curso. Resalte el uso de
@@ -121,5 +121,23 @@ subcontratación_*
 
 **Situacion actual**
 
-La gestion de reparto local esta a cargo del area de trafico de la sucursal correspondiente. Enfocando el estudio en la sucursal de El Sol Materiales, observamos que la gestion de reparto de mercaderia a clientes (corralones y empresas constructoras) cuenta con un responsable del ruteo de la flota propia (6 camiones) y transportes tercerizados. En este aspecto, el planeamiento es con una acticipacion de 1 o 2 dias, con "cierres de dias" dependiente a pesaje total o volumen a entregar. Es decir, si hablamos de una capacidad maxima a transportar de 8 a 9 Toneladas, el vendedor podra seguir asginando entregas a clientes hasta cumplir con lo maximo que puede transportar la flota de la sucursal y entre 4 a 6 camiones tercerizados. 
+La gestion de reparto local esta a cargo del area de trafico de la sucursal correspondiente. Enfocando el estudio en la sucursal de El Sol Materiales, observamos que la gestion de reparto de mercaderia a clientes (corralones y empresas constructoras) cuenta con un responsable del ruteo de la flota propia (6 camiones) y transportes tercerizados. En este aspecto, el planeamiento es con una acticipacion de 1 o 2 dias, con "cierres de dias" dependiente a pesaje total o volumen a entregar. Es decir, si hablamos de una capacidad maxima a transportar de 8 a 9 Toneladas por camion, el vendedor podra seguir asginando entregas a clientes para un dia especifico hasta cumplir con lo maximo que puede transportar la flota de la sucursal y 4 a 6 camiones tercerizados. El area cuenta ademas con un responsable para la comunicacion con el cliente, donde se realiza confirmacion de recepcion por parte del cliente y alineamiento de la hora aproximada de la entrega. 
 
+*Problematica abordada*
+
+1. Una problematica que presenta el area, son los casos de falta de stock para la entrega completa de un pedido. Es decir, las entregas que terminan la jornada con un estatus de *pendientes por falta de stock* o *Caidos por stock*. 
+
+Vease *analisis de costo incurrido en transferencia-OCT23*. Datos adjuntos. (Pendiente a hacer)
+
+Aqui es oportuno comentar que el faltante de stock es presentado como una mala distribucion de las existencias. Actualmente la sucursal de El Sol Materiales cuenta con 2 depositos, uno en San Miguel de Tucuman y otro en Lastenia. Un responsable del area de compras gestiona la compra de mucho de los materiales, como asi la distribucion del material para que ningun deposito este sin stock de algun material. 
+Tambien vemos que las operaciones de *transferencias* (movimiento de mercaderia intersucursal) estan normalisadas por parte del equipo de trafico. Realizando diaramente/semanalmente X transferencias, con motivo de necesidad urgente para completar el pedido pendiente. Con esto incurrimos en un costo de $Y por operacion, en promedio, $X por semana/mes y una eficiencia de capacidad para el transporte empleado. 
+
+Vease *analisis de costo incurrido en transferencia-OCT23, analisis de concurrencias de transferencias del area de trafico y tarifario de reparto local.* Datos adjuntos (Pendiente a hacer)
+
+2. Otra problematica que presenta el area son los casos en donde no se gestiono una actualizacion de la direccion de entrega para, en especifico, las emrpesas constructoras, donde las obras en construccion van cambiando. Esto puede generar demoras en las entregas poxteriores, entregas pendientes, costo de hora extras en mano de obra tanto para el cliente como para la emrpesa.
+
+ **Situacion mejorada**
+
+1. Se puede optar por hacer una gestion de transferencias preventiva con frecuencia semanal, realizada el dia sabado (jornada con menor necesidad de entrega). La idea es contar con un techo de $X mensual, el cual es el costo actual (Vease analisis, dato adjunto). Buscamos realizar una o dos operaciones, con eficiencia en la capacidad del transporte a usar, centralizandose, en primer instancia, en el 20% del material con mayor ocurrencia.
+
+2. 
