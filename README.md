@@ -107,4 +107,19 @@ Comprar mediante CIF proporciona ventajas significativas como ser una menor gest
 Los camiones contratados son mayormente de Tucuman y tienen que ir hasta Catamarca, donde se encuentra la fábrica de Loma Negra, en búsqueda del cemento. En un primer momento, se le pagaba a Transporte Reinoso y Gramajo un plus por la vuelta vacío, lo que quiere decir, que ellos te envían cemento desde la fábrica hasta la sucursal o  a un cliente por un precio, pero además, se suma un precio extra por enviar desde Tucuman hasta la fábrica, por lo que una estrategia de ahorro fue aprovechar el mismo camión que envía cemento desde Catamarca a tucuman , utilizarlo a ese para que lleve materiales desde weber o tensolite hasta la sucursal de Catamarca de uniber, esto a veces no ocurre pero en su mayoría si. 
 Se realizaron mejoras como sectorizar los clientes de Tucuman. Anteriormente, se cobraba el flete al mismo precio para todos los clientes, por lo que se decidió sectorizar por zonas y armar un tarifario con valores diferenciados teniendo en cuenta la cantidad de kilómetros recorridos desde la fábrica al destino.
 
+## Gestion de cumplimiento de mercaderia en reparto 
+*_**3.** 
+Situación Actual: Describa brevemente cómo funciona actualmente la
+gestión de operaciones en su proceso principal y al menos
+dos problemáticas abordadas en el curso. Resalte el uso de
+pronósticos, gestión de la mano de obra y subcontratación._*
+
+*_Situación mejorada: Describa mejoras posibles de implementar en la
+Gestión de operaciones en relación a: uso de
+pronósticos, gestión de la mano de obra y
+subcontratación_*
+
+**Situacion actual**
+
+La gestion de reparto local esta a cargo del area de trafico de la sucursal correspondiente. Enfocando el estudio en la sucursal de El Sol Materiales, observamos que la gestion de reparto de mercaderia a clientes (corralones y empresas constructoras) cuenta con un responsable del ruteo de la flota propia (6 camiones) y transportes tercerizados. En este aspecto, el planeamiento es con una acticipacion de 1 o 2 dias, con "cierres de dias" dependiente a pesaje total o volumen a entregar. Es decir, si hablamos de una capacidad maxima a transportar de 8 a 9 Toneladas, el vendedor podra seguir asginando entregas a clientes hasta cumplir con lo maximo que puede transportar la flota de la sucursal y entre 4 a 6 camiones tercerizados. 
 
