@@ -16,7 +16,7 @@ _*Empresa de referencia*: **Grupo UNIBER**_
 
 Descripcion. 
 Grupo UNIBER es una empresa dedicada a la comercializacion de materiales de construccion y ***, para minorista y mayorista. Actualmente cuenta con sucursales en provincia de Salta, Catamarca, Jujuy y Tucuman. 
-El trabajo estara referido al abastecimiento terciarizado de cemento desde el proveedor Loma Negra, con aprovisionamiento de las sucursales de Supermat (ubicadas en Oran, Tartagal, Salta Capital y Jujuy), El Sol Materiales (en Yerba Buena y Lastenia, Tucuman) e Hipercat (en Catamarca), con la aclaracion de contar con 2 sucursales en Salta Capital: ATH y CHILE. 
+El trabajo estara referido al abastecimiento terciarizado de cemento y devolucion de pallets desde el proveedor Loma Negra, con aprovisionamiento de las sucursales de Supermat (ubicadas en Oran, Tartagal, Salta Capital y Jujuy), El Sol Materiales (en Yerba Buena y Lastenia, Tucuman) e Hipercat (en Catamarca), con la aclaracion de contar con 2 sucursales en Salta Capital: ATH y CHILE. 
 
 
 ## **_DESARROLLO DEL TRABAJO_**
