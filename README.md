@@ -16,7 +16,7 @@ _*Empresa de referencia*: **Grupo UNIBER**_
 
 Descripcion. 
 Grupo UNIBER es una empresa dedicada a la comercializacion de materiales de construccion y ***, para minorista y mayorista. Actualmente cuenta con sucursales en provincia de Salta, Catamarca, Jujuy y Tucuman. 
-El trabajo estara referido al abastecimiento terciarizado de cemento, desde el proveedor Loma Negra, con aprovisionamiento de las sucursales de Supermat (ubicadas en Oran, Tartagal, Salta Capital y Jujuy) y El Sol Materiales (en Yerba Buena y Lastenia, Tucuman) e Hipercat (en Catamarca), con la aclaracion con contar con 2 sucursales en Salta Capital: ATH y CHILE. 
+El trabajo estara referido al abastecimiento terciarizado de cemento desde el proveedor Loma Negra, con aprovisionamiento de las sucursales de Supermat (ubicadas en Oran, Tartagal, Salta Capital y Jujuy), El Sol Materiales (en Yerba Buena y Lastenia, Tucuman) e Hipercat (en Catamarca), con la aclaracion de contar con 2 sucursales en Salta Capital: ATH y CHILE. 
 
 
 ## **_DESARROLLO DEL TRABAJO_**
@@ -33,7 +33,7 @@ qué cree que esa implementación mejoraría_*
 
 **_Situación Actual_**
 
-Uniber presenta una problemática en la política de devolución de pallets frente a su cliente Loma Negra, esto ocasiona una pérdida económica significativa. El criterio de Loma Negra para la facturacion al cliente es contar con el saldo pendiente mayor al 25% de la salida de pallets del mes, este porcentaje se considera como mercaderia en circulacion. Es un analisis realizado el día 5 del mes siguiente, comparando la variacion entre las salidas y entradas (despacho e ingreso de Loma Negra) y una _foto_ del total de salida del corriente mes.  
+La empresa Uniber presenta una problemática en la política de devolución de pallets frente a su cliente Loma Negra, esto ocasiona una pérdida económica significativa. El criterio de Loma Negra para la facturacion al cliente es contar con el saldo pendiente mayor al 25% de la salida de pallets del mes, este porcentaje se considera como mercaderia en circulacion. Es un analisis realizado el día 5 del mes siguiente, comparando la variacion entre las salidas y entradas (despacho e ingreso de Loma Negra) y una _foto_ del total de salida del corriente mes.  
 
 A continuación, se presenta un caso:
 _Datos a tomar en cuenta:_ 
