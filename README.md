@@ -15,7 +15,7 @@
 _*Empresa de referencia*: **Grupo UNIBER**_
 
 Descripcion. 
-Grupo UNIBER es una empresa dedicada a la comercializacion de materiales de construccion y ***, para minorista y mayorista. Actualmente cuenta con sucursales en provincia de Salta, Catamarca, Jujuy y Tucuman. 
+Grupo UNIBER es una empresa dedicada a la comercializacion de materiales de construccion y , para minorista y mayorista. Actualmente cuenta con sucursales en provincia de Salta, Catamarca, Jujuy y Tucuman. 
 El trabajo estara referido al abastecimiento terciarizado de cemento y devolucion de pallets desde el proveedor Loma Negra, con aprovisionamiento de las sucursales de Supermat (ubicadas en Oran, Tartagal, Salta Capital y Jujuy), El Sol Materiales (en Yerba Buena y Lastenia, Tucuman) e Hipercat (en Catamarca), con la aclaracion de contar con 2 sucursales en Salta Capital: ATH y CHILE. 
 
 
@@ -33,17 +33,18 @@ qué cree que esa implementación mejoraría_*
 
 **_Situación Actual_**
 
-La empresa Uniber presenta una problemática en la política de devolución de pallets frente a su cliente Loma Negra, esto ocasiona una pérdida económica significativa. El criterio de Loma Negra para la facturacion al cliente es contar con el saldo pendiente mayor al 25% de la salida de pallets del mes, este porcentaje se considera como mercaderia en circulacion. Es un analisis realizado el día 5 del mes siguiente, comparando la variacion entre las salidas y entradas (despacho e ingreso de Loma Negra) y una _foto_ del total de salida del corriente mes.  
+La empresa Uniber presenta una problemática en la gestion de devolución de pallets frente a su proveedor Loma Negra, ocacionando una pérdida económica significativa. El criterio de Loma Negra para la facturacion al cliente es contar con el saldo pendiente mayor al 25% de la salida de pallets del mes, este porcentaje se considera como mercaderia en circulacion. La facturacion es un resultado de un analisis realizado el día 5 o 6 del mes siguiente, comparando la variacion entre las salidas y entradas de tarimas (despacho e ingreso de Loma Negra) y una _foto_ del total de salida del corriente mes.  
 
 A continuación, se presenta un caso:
 _Datos a tomar en cuenta:_ 
 
-- Sucursal: HIPERCAT
+- Sucursal: HIPERCAT (como una de las sucursales que integra Grupo UNIBER)
 - Costo unitario de tarima: $8100
-- Facturacion de pallets a clientes: 31 tarimas
+- Abastecimiento de cemento en el mes de octubre: 726 pallets de cemento, con un total de 40 bolsas de 50 Kg c/pallet.
 
-En el mes de octubre se realizo una compra y abastecimiento de Loma Negra de un total de 726 pallets de cemento, contamos entonces con un limite de 182 pallets (tarimas) como valor de saldo a no superar o igualar, siendo esto la _foto_ a final de mes. 
-Para esta fecha ademas contamos con una saldo pendiente real de 301 pallets. Nos encontramos con una diferencia de 119 tarimas faltantes (una posible facturacion de _$963.900_)
+En el mes de octubre se realizo una compra y abastecimiento de Loma Negra de un total de 726 pallets de cemento, contando entonces con un limite de saldo de 182 pallets (tarimas vacias) a no superar o igualar, siendo esto la _foto_ a final de mes. 
+Para un primer analisis realizado el 31/10, contamos con una saldo real de 301 pallets. 
+Entonces, nos encontramos con una diferencia de 119 tarimas faltantes (una posible facturacion de _$963.900_)
 
 Hasta el siguiente analisis (en este caso realizado el 06/11), la sucursal debia hacer una devolucion de minimo las 119 tarimas para no incurrir en el costo de tarimas no devueltas a fabrica. Teniendo en cuenta ademas un requerimiento de no incurrir en nuevas salidas de pallets para no hacer crecer el saldo de la sucursal. Esto parece ilogico cuando observamos que en promedio, la sucursal en octubre demando por semana una cantidad de entre 10 a 12 equipos de cemento, con 15 a 17 pallets de cemento en cada uno. Por último comentar que es el mismo transporte que trae cemento a la sucursal el que lleva las tarimas a fabrica.
 
