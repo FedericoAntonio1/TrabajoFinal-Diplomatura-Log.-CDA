@@ -142,3 +142,16 @@ Vease *analisis de costo incurrido en transferencia-OCT23, analisis de concurren
 1. Se puede optar por hacer una gestion de transferencias preventiva con frecuencia semanal, realizada el dia sabado (jornada con menor necesidad de entrega). La idea es contar con un techo de $X mensual, el cual es el costo actual (Vease analisis, dato adjunto). Buscamos realizar una o dos operaciones, con eficiencia en la capacidad del transporte a usar, centralizandose, en primer instancia, en el 20% del material con mayor ocurrencia.
 
 2. 
+
+## Gestion de Inventario 
+##5
+**Situcaion actual**
+Describa brevemente cómo funciona actualmente la
+gestión de inventarios en su empresa y al menos dos
+problemáticas abordadas en el curso. Resalte el uso de
+pronósticos y algoritmos que se utilizan
+
+**Situcaion mejorada**
+Describa mejoras posibles de implementar en la
+Gestión de inventarios en relación al uso de
+pronósticos u otra metodología que considere
