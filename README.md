@@ -154,4 +154,10 @@ pronósticos y algoritmos que se utilizan
 **Situcaion mejorada**
 Describa mejoras posibles de implementar en la
 Gestión de inventarios en relación al uso de
-pronósticos u otra metodología que considere
+pronósticos u otra metodología que considere.
+
+Situacion actual
+
+##Situacion mejorada##
+
+Se propone trabajar con un diagrama ABC, el cual se haga a partir de los productos que tengan mayor rotacion, para esto es importante contar con un informe tanto de ventas como del Encargado de mercaderia de los sku que mas salieron del deposito y que mas se vendieron. Esta metodologia permitira identificar los productos que tienen mayor rotacion, por lo tanto a estos se los debera dar una mayor importancia en el deposito y asignarles un lugar cerca de la zona de preparacion de pedidos para asi ganar en tiempo y en combustible a la hora de hacer los pedidos. Debido a esto se podra solucionar en parte la problematica del el Sol Materiales que esta teniendo con el tiempo en preparacion de los pedidos y el quiebre de stock. 
