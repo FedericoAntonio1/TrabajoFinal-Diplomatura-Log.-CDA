@@ -145,16 +145,16 @@ La gestion de reparto local esta a cargo del area de trafico de la sucursal corr
 
 Vease *analisis de costo incurrido en transferencia-OCT23*. Datos adjuntos. (Pendiente a hacer)
 
-Aqui es oportuno comentar que el faltante de stock es presentado como una mala distribucion de las existencias. Actualmente la sucursal de El Sol Materiales cuenta con 2 depositos, uno en San Miguel de Tucuman y otro en Lastenia. Un responsable del area de compras gestiona la compra de mucho de los materiales, como asi la distribucion del material para que ningun deposito este sin stock de algun material. 
-Tambien vemos que las operaciones de *transferencias* (movimiento de mercaderia intersucursal) estan normalisadas por parte del equipo de trafico. Realizando diaramente/semanalmente X transferencias, con motivo de necesidad urgente para completar el pedido pendiente. Con esto incurrimos en un costo de $Y por operacion, en promedio, $X por semana/mes y una eficiencia de capacidad para el transporte empleado. 
+Aqui es oportuno comentar que el faltante de stock es presentado como una mala distribucion de las existencias. Actualmente, la sucursal de El Sol Materiales cuenta con 2 depositos, uno en San Miguel de Tucuman y otro en Lastenia. Se cuenta con un responsable del area de compras que gestiona la compra de mucho de los materiales, como asi la distribucion del material para que ningun deposito se quede sin stock. 
+Tambien vemos que las operaciones de *transferencias* (movimiento de mercaderia intersucursal) estan normalizadas por parte del equipo de trafico. Realizando diaramente/semanalmente X transferencias, con motivo de necesidad urgente para completar el pedido pendiente. Con esto incurrimos en un costo de $Y por operacion, en promedio, $X por semana/mes y una eficiencia de capacidad para el transporte empleado. 
 
 Vease *analisis de costo incurrido en transferencia-OCT23, analisis de concurrencias de transferencias del area de trafico y tarifario de reparto local.* Datos adjuntos (Pendiente a hacer)
 
-2. Otra problematica que presenta el area son los casos en donde no se gestiono una actualizacion de la direccion de entrega para, en especifico, las emrpesas constructoras, donde las obras en construccion van cambiando. Esto puede generar demoras en las entregas poxteriores, entregas pendientes, costo de hora extras en mano de obra tanto para el cliente como para la emrpesa.
+2. Otra problematica que presenta el area, son los casos en donde no se gestiono una actualizacion de la direccion de entrega para, en especifico, las emrpesas constructoras, donde las obras en construccion van cambiando. Esto puede generar demoras en las entregas posteriores, en las entregas pendientes y costo de hora extra en mano de obra tanto para el cliente como para la empresa.
 
  **Situacion mejorada**
 
-1. Se puede optar por hacer una gestion de transferencias preventiva con frecuencia semanal, realizada el dia sabado (jornada con menor necesidad de entrega). La idea es contar con un techo de $X mensual, el cual es el costo actual (Vease analisis, dato adjunto). Buscamos realizar una o dos operaciones, con eficiencia en la capacidad del transporte a usar, centralizandose, en primer instancia, en el 20% del material con mayor ocurrencia.
+1. Se opto por hacer una gestion de transferencias preventiva con frecuencia semanal, realizada el dia sabado (jornada con menor necesidad de entrega). La idea es contar con un techo de $X mensual, el cual es el costo actual (Vease analisis, dato adjunto). Se busca realizar una o dos operaciones, con eficiencia en la capacidad del transporte a usar, centralizandose, en primer instancia, en el 20% del material con mayor ocurrencia.
 
 2. 
 
