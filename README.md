@@ -52,7 +52,7 @@ Hasta el siguiente analisis (en este caso realizado el 06/11), la sucursal debia
 
 Se propone como solución un procedimiento de revisión y control del flujo de tarimas, junto con un seguimiento desde la web LOMANET clientes. Es un cambio significativo ya que la empresa únicamente vendía cemento e ignoraba la cuestión de las tarimas, actualmente se sabe cuántas de ellas ingresan a la empresa, cuantas salen y donde están, quienes son los transportistas que realizan devoluciones. Cabe destacar que cumplir con la política de devolución reduce no solamente las perdidas monetarias, sino también contribuye a reducir el impacto ambiental mediante la reutilización. Se busca una comunicacion constante entre los involucrados en el circuito de tarimas. 
 
-**Ademas, se busca llevar el stock de la sucursal a valores maximos en el ultimo dia del mes, para luego bajar el aprovicionamiento hasta fecha del analisis final. Con esto conseguimos no aumentar considerablemente el saldo de pallets. Desafortunadamente, esto aumenta la posibilidad de contar con una rotura de stock en la sucursal.** 
+**Ademas, se busca llevar el stock de la sucursal a valores optimos en el ultimo dia del mes, para luego bajar el aprovicionamiento hasta fecha del analisis final. Con esto conseguimos no aumentar considerablemente el saldo de pallets. Desafortunadamente, esto aumenta la posibilidad de contar con una rotura de stock en la sucursal.** 
 
 Adjunto: 
 - Analisis de tarimas del mes de octubre de la sucursal de Hipercat
@@ -74,9 +74,9 @@ definir al menos las tres principales problemáticas_*
 
 **Situacion actual**
 
-Uniber realiza comercailizacion mayorista y minorista en el rubro de construccion, contando como clientes a empresas contructoras, corralones y consumidor final para el mercado minorista. 
+Uniber realiza comercializacion mayorista y minorista en el rubro de la construccion, contando como clientes a empresas constructoras, corralones y consumidor final para el mercado minorista. 
 La empresa tiene proveedores de materiales en todo el país, algunos de ellos son: Loma Negra, Weber, Tensolite, Placo, Cerámica Alberdi, Cañuelas, Zapla y Ternium. 
-Para corralones y empresas constructoras, se les brinda un servicio de entrega en equipos completos directo desde fabrica o en su mayoria de casos, reparto desde la empresa. Además, se tiene la opcion retiros desde sucursal. Para las operaciones mecionadas, cada sucursal cuenta con un equipo de trafico, que varia en la cantidad de integrantes dependiendo la sucursal. 
+Para corralones y empresas constructoras, se les brinda un servicio de entrega en equipos completos directo desde fabrica o en la mayoria de los casos, reparto desde la empresa. Además, se tiene la opcion de retiros desde sucursal. Para las operaciones mecionadas, cada sucursal cuenta con un equipo de trafico, que varia en la cantidad de integrantes dependiendo de cada una. 
 
 
 Si hablamos de una de las sucursales de El Sol Materiales, ubicado en San Miguel de Tucuman, el equipo de trafico esta ingregrado con 4 personas especializadas en la entrega de materiales desde sucursal a cliente: 3 administrativos y 1 operarivo; tambien se cuenta con 1 persona responsable de abastecimiento _fabrica-ElSolMateriales_ y entregas de material _fabrica-cliente_. 
