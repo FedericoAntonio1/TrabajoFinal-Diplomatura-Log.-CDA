@@ -103,10 +103,20 @@ establecidas y justificando los cambios_*
 **Situacion actual**
 
 Describir el funcionamiento de la cadena de abastecimiento actual y proponer una mejora justificando los cambios.
-La cadena de abastecimiento de la empresa funciona de diferentes maneras, específicamente con Loma Negra se utilizan camiones contratados para buscar cemento desde la fabrica (FOB)(transporte agro san Claudio, reinoso, gramajo), y se utiliza fletes de loma negra(CIF)
-Comprar mediante CIF proporciona ventajas significativas como ser una menor gestión administrativa en los envíos (se encarga el proveedor). Sin embargo, solo es posible elegir 2 o 3 destinos fijos, imposibilitando el envío directo a cada cliente. Por otro lado, el FOB permite realizar dichos envíos directos, pero con un costo 6% más caro. 
-Los camiones contratados son mayormente de Tucuman y tienen que ir hasta Catamarca, donde se encuentra la fábrica de Loma Negra, en búsqueda del cemento. En un primer momento, se le pagaba a Transporte Reinoso y Gramajo un plus por la vuelta vacío, lo que quiere decir, que ellos te envían cemento desde la fábrica hasta la sucursal o  a un cliente por un precio, pero además, se suma un precio extra por enviar desde Tucuman hasta la fábrica, por lo que una estrategia de ahorro fue aprovechar el mismo camión que envía cemento desde Catamarca a tucuman , utilizarlo a ese para que lleve materiales desde weber o tensolite hasta la sucursal de Catamarca de uniber, esto a veces no ocurre pero en su mayoría si. 
-Se realizaron mejoras como sectorizar los clientes de Tucuman. Anteriormente, se cobraba el flete al mismo precio para todos los clientes, por lo que se decidió sectorizar por zonas y armar un tarifario con valores diferenciados teniendo en cuenta la cantidad de kilómetros recorridos desde la fábrica al destino.
+La cadena de abastecimiento de la empresa funciona de diferentes maneras, específicamente con Loma Negra se utilizan camiones contratados para buscar cemento desde la fabrica (FOB), y se utiliza fletes de loma negra(CIF).
+Comprar mediante CIF proporciona ventajas significativas como ser una menor gestión administrativa en los envíos (se encarga el proveedor). Sin embargo, solo es posible elegir 2 o 3 destinos fijos, imposibilitando el envío directo a cada cliente. Por otro lado, el FOB permite realizar dichos envíos directos, pero con un costo más caro. 
+Los camiones contratados son mayormente de Tucuman y tienen que ir hasta Catamarca, donde se encuentra la fábrica de Loma Negra, en búsqueda del cemento. Estos entrgan directamente desde la fabrica al cliente o se dirigen al deposito de El Sol en San Miguel de Tucuman a dejar la carga. En este ultimo caso, una vez que ya esta la orden de preparacion del pedido se procede a realizar el mismo y se le comunica al cliente el turno asignado que tiene para retirar su pedido.
+
+**Situacion mejorada**
+En la situacion actual se cuenta con dos problematicas en la cadena:
+1. El tiempo de espera que tienen los camiones para descargar debido a que hay un solo flujo en el deopisto para carga y descarga
+2. La tarifa unica que se les cobra a los clientes por envio
+Ante la primera problematica se propone lo siguiente:
+Hacer una nueva distribucion de los productos en el deposito y una sectorizacion que permita tener bien definidas las zonas de carga y descarga para asi ganar tiempo y espacio. La nueva sectorizacion se hara en base al diagrama ABC en el cual los productos A estaran en las zonas de rapido acceso ya que estos son los que mayor rotacion tienen. Tambien debido a este nuevo orden de productos se ganara espacio lo que permitira ahora tener dos lineas separadas una exclusiva para descarga y otra para carga, esto permitira un mejor flujo de moviemnto de camiones y disminuir los timepos muertos tanto de los clientes como de los proveedores. 
+Con la segunda situacion se propone la siguiente solucion:
+Se sectorizaran los clientes de Tucuman ya que en estos momentos se le cobra la misma tarifa a todos. Esta sectorizacion permite definir bien las zonas de entrga y armar un tarifario con valores diferenciados teniendo en cuenta la cantidad de kilometros recorridos desde la fabrica al destino.
+
+
 
 ## Gestion de cumplimiento de mercaderia en reparto 
 *_**4.** 
