@@ -79,7 +79,7 @@ La empresa tiene proveedores de materiales en todo el país, algunos de ellos so
 Para corralones y empresas constructoras, se les brinda un servicio de entrega en equipos completos directo desde fabrica o en la mayoria de los casos, reparto desde la empresa. Además, se tiene la opcion de retiros desde sucursal. Para las operaciones mecionadas, cada sucursal cuenta con un equipo de trafico, que varia en la cantidad de integrantes dependiendo de cada una. 
 
 
-Si hablamos de una de las sucursales de El Sol Materiales, ubicado en San Miguel de Tucuman, el equipo de trafico esta ingregrado con 4 personas especializadas en la entrega de materiales desde sucursal a cliente: 3 administrativos y 1 operarivo; tambien se cuenta con 1 persona responsable de abastecimiento _fabrica-ElSolMateriales_ y entregas de material _fabrica-cliente_. 
+Si tomamos una de las sucursales de El Sol Materiales, ubicada en San Miguel de Tucuman, el equipo de trafico esta ingregrado con 4 personas especializadas en la entrega de materiales desde sucursal a cliente: 3 administrativos y 1 operarivo; tambien se cuenta con 1 persona responsable de abastecimiento _fabrica-ElSolMateriales_ y entregas de material _fabrica-cliente_. 
 
 **Situacion mejorada**
 
