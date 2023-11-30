@@ -86,9 +86,9 @@ Si tomamos una de las sucursales de El Sol Materiales, ubicada en San Miguel de 
 Para esta sucursal, se presentan *inconvenientes* como la ubicación de los corralones que piden equipos completos a domicilio. Los mismos, tienen accesos muy limitados que imposibilitan las maniobras de los camiones. En estos casos, se deben seleccionar chasis acoplados para un mejor radio de giro. 
 Otros inconvenientes, son los paros de planta de Loma Negra, las propias roturas de los camiones contratados, la complicación con los vendedores que quieren que se entreguen equipos a clientes que aún no tienen orden de compra, además de la lucha constante contra las tarifas de los transportistas que buscan maximizar ganancias mientras la empresa busca disminuir costos.
 
-Otro inconveniente que presenta el area, a la hora de realizar las entregas, es la falta de stock de uno o varios materiales a entregar en ese dia. Muchas veces incurriendo en un costo de *transferencia* (moviento de material entre sucursales), generando "ruido operacional" en ese momento y en el peor de los casos, reprogramando el envio. Este costo esta visto como un mal menor y no existe seguimiento ni analisis al respecto. 
+Otro inconveniente que presenta el area, a la hora de realizar las entregas, es la falta de stock de uno o varios materiales a entregar en el dia. En varias ocasiones, incurre en un costo de *transferencia* (moviento de material entre sucursales), generando "ruido operacional" y en el peor de los casos, reprogramando el envio. Este costo esta visto como un mal menor y no existe seguimiento ni analisis al respecto. 
 
-Otro inconveniente es el canal de informacion y novedades que extiste entre cliente-vendedor-trafico. En un contexto competitivo, el vendedor esta alineado a cerrar ventas sin preocuparse del stock del material, prometiendo un buen servicio de entrega, lo que se traduce a tiempos de entregas de menos de 2 dias. 
+**Ademas, existe la problematica sobre el canal de informacion y novedades entre cliente-vendedor-trafico. En un contexto competitivo, el vendedor esta alineado a cerrar ventas sin preocuparse por el stock del material, prometiendo un buen servicio de entrega, lo que se traduce a tiempos de entregas de menos de 2 dias.**
 
 ****PUEDO INSERTAR INDICADORES DE ENTREGA, TIEMPOS, PROPORCION DE PENDIENTES, CAIDOS POR STOCKS, TRANSFERENCIA Y COSTO REFERIDOS**
 
@@ -100,21 +100,26 @@ Situación mejorada: De similar forma, proponga una cadena de
 abastecimiento mejorada, consignando las mejoras
 establecidas y justificando los cambios_*
 
-**Situacion actual**
+**Situacion actual**  
 
-Describir el funcionamiento de la cadena de abastecimiento actual y proponer una mejora justificando los cambios.
-La cadena de abastecimiento de la empresa funciona de diferentes maneras, específicamente con Loma Negra se utilizan camiones contratados para buscar cemento desde la fabrica (FOB), y se utiliza fletes de loma negra(CIF).
-Comprar mediante CIF proporciona ventajas significativas como ser una menor gestión administrativa en los envíos (se encarga el proveedor). Sin embargo, solo es posible elegir 2 o 3 destinos fijos, imposibilitando el envío directo a cada cliente. Por otro lado, el FOB permite realizar dichos envíos directos, pero con un costo más caro. 
-Los camiones contratados son mayormente de Tucuman y tienen que ir hasta Catamarca, donde se encuentra la fábrica de Loma Negra, en búsqueda del cemento. Estos entrgan directamente desde la fabrica al cliente o se dirigen al deposito de El Sol en San Miguel de Tucuman a dejar la carga. En este ultimo caso, una vez que ya esta la orden de preparacion del pedido se procede a realizar el mismo y se le comunica al cliente el turno asignado que tiene para retirar su pedido.
+La cadena de abastecimiento de la empresa funciona de diferentes maneras, específicamente con Loma Negra se utilizan camiones contratados para buscar cemento desde la fabrica (FOB), y se utilizan fletes de loma negra (CIF).
+
+Comprar mediante CIF proporciona ventajas significativas como ser una menor gestión administrativa en los envíos (se encarga el proveedor), sin embargo, solo es posible elegir 2 o 3 destinos fijos, imposibilitando el envío directo a cada cliente. Por otro lado, el FOB permite realizar dichos envíos directos, pero con un costo más caro. 
+Los camiones contratados son mayormente de Tucuman y tienen que ir hasta Catamarca, donde se encuentra la fábrica de Loma Negra, en búsqueda del cemento. Estos entregan directamente desde la fabrica al cliente o se dirigen al deposito de El Sol en San Miguel de Tucuman a dejar la carga. En este ultimo caso, una vez que ya esta la orden de preparacion del pedido, se procede a realizar el mismo y se le comunica al cliente el turno asignado que tiene para retirar su pedido.
 
 **Situacion mejorada**
+
 En la situacion actual se cuenta con dos problematicas en la cadena:
 1. El tiempo de espera que tienen los camiones para descargar debido a que hay un solo flujo en el deopisto para carga y descarga
 2. La tarifa unica que se les cobra a los clientes por envio
+   
 Ante la primera problematica se propone lo siguiente:
-Hacer una nueva distribucion de los productos en el deposito y una sectorizacion que permita tener bien definidas las zonas de carga y descarga para asi ganar tiempo y espacio. La nueva sectorizacion se hara en base al diagrama ABC en el cual los productos A estaran en las zonas de rapido acceso ya que estos son los que mayor rotacion tienen. Tambien debido a este nuevo orden de productos se ganara espacio lo que permitira ahora tener dos lineas separadas una exclusiva para descarga y otra para carga, esto permitira un mejor flujo de moviemnto de camiones y disminuir los timepos muertos tanto de los clientes como de los proveedores. 
+
+Hacer una nueva distribucion de los productos en el deposito y una sectorizacion que permita tener bien definidas las zonas de carga y descarga para asi ganar tiempo y espacio. La nueva sectorizacion se hara en base al diagrama ABC en el cual los productos A estaran en las zonas de rapido acceso, ya que estos son los que mayor rotacion tienen. Ademas, debido a este nuevo orden de productos, se ganara espacio, lo que permitira tener dos lineas separadas, una exclusiva para descarga y otra para carga, esto permitira un mejor flujo de movimiento de camiones y disminuir los tiempos muertos, tanto de los clientes como de los proveedores. 
+
 Con la segunda situacion se propone la siguiente solucion:
-Se sectorizaran los clientes de Tucuman ya que en estos momentos se le cobra la misma tarifa a todos. Esta sectorizacion permite definir bien las zonas de entrga y armar un tarifario con valores diferenciados teniendo en cuenta la cantidad de kilometros recorridos desde la fabrica al destino.
+
+Se sectorizaran los clientes de Tucuman ya que en estos momentos se le cobra la misma tarifa a todos. Esta sectorizacion permite definir bien las zonas de entrega y armar un tarifario con valores diferenciados teniendo en cuenta la cantidad de kilometros recorridos desde la fabrica al destino.
 
 
 
