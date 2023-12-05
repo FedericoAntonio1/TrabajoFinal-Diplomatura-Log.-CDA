@@ -50,9 +50,14 @@ Hasta el siguiente analisis (en este caso realizado el 06/11), la sucursal debia
 
 **_Situación mejorada_**
 
-Se propone como solución un procedimiento de revisión y control del flujo de tarimas, junto con un seguimiento desde la web LOMANET clientes. Es un cambio significativo ya que la empresa únicamente vendía cemento e ignoraba la cuestión de las tarimas, actualmente se sabe cuántas de ellas ingresan a la empresa, cuantas salen y donde están, quienes son los transportistas que realizan devoluciones. Cabe destacar que cumplir con la política de devolución reduce no solamente las perdidas monetarias, sino también contribuye a reducir el impacto ambiental mediante la reutilización. Se busca una comunicacion constante entre los involucrados en el circuito de tarimas. 
+Se propone como solución: 
+A)Revisión y control del flujo de tarimas, junto con un seguimiento desde la web LOMANET clientes. Es un cambio significativo ya que la empresa únicamente vendía cemento e ignoraba la cuestión de las tarimas, actualmente se sabe cuántas de ellas ingresan a la empresa, cuantas salen y donde están, quienes son los transportistas que realizan devoluciones. 
+B) A los clientes con cuenta corriente emitirles conceptos facturables por las tarimas que llevan junto con el cemento, con el mismo criterio del tope del 25% que impone Loma Negra.
+C) Para los clientes de contado: 1. cargar las bolsas a granel; 2. facturarles las tarimas; 3. el cliente al momento de cargar debe ir con sus tarimas.
+D) Para una optimización de los costos logísticos, se proponen devoluciones quincenales de pallets con equipos completos a Loma Negra. Ese mismo camión que devuelve las tarimas, carga cemento para retornar a Tuc.
+Cabe destacar que cumplir con la política de devolución reduce no solamente las perdidas monetarias, sino también contribuye a reducir el impacto ambiental mediante la reutilización. Se busca una comunicacion constante entre los involucrados en el circuito de tarimas. 
 
-**Ademas, se busca llevar el stock de la sucursal a valores optimos en el ultimo dia del mes, para luego bajar el aprovicionamiento hasta fecha del analisis final. Con esto conseguimos no aumentar considerablemente el saldo de pallets. Desafortunadamente, esto aumenta la posibilidad de contar con una rotura de stock en la sucursal.** 
+**Ademas, se busca llevar el stock de la sucursal a valores optimos en el ultimo dia del mes, para luego bajar el aprovisionamiento hasta fecha del analisis final. Con esto conseguimos no aumentar considerablemente el saldo de pallets. Desafortunadamente, esto aumenta la posibilidad de contar con una rotura de stock en la sucursal.** 
 
 Adjunto: 
 - Analisis de tarimas del mes de octubre de la sucursal de Hipercat
