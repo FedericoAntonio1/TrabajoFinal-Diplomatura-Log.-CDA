@@ -14,10 +14,6 @@
 
 _*Empresa de referencia*: **Grupo UNIBER**_
 
-Descripcion. 
-Grupo UNIBER es una empresa dedicada a la comercializacion de materiales de construccion , para minoristas y mayoristas. Actualmente cuenta con sucursales en provincia de Salta, Catamarca, Jujuy y Tucuman. 
-El trabajo esta referido al abastecimiento terciarizado de cemento y devolucion de pallets desde el proveedor Loma Negra, con aprovisionamiento de las sucursales de Supermat (ubicadas en Oran, Tartagal, Salta Capital y Jujuy), El Sol Materiales (en Yerba Buena y Lastenia, Tucuman) e Hipercat (en Catamarca), con la aclaracion de contar con 2 sucursales en Salta Capital: ATH y CHILE.
-
 
 ## **_DESARROLLO DEL TRABAJO_**
 
@@ -33,6 +29,8 @@ qué cree que esa implementación mejoraría_*
 
 **_Situación Actual_**
 
+Grupo UNIBER es una empresa dedicada a la comercializacion de materiales de construccion , para minoristas y mayoristas. Actualmente cuenta con sucursales en provincia de Salta, Catamarca, Jujuy y Tucuman. 
+El trabajo esta referido al abastecimiento terciarizado de cemento y devolucion de pallets desde el proveedor Loma Negra, con aprovisionamiento de las sucursales de Supermat (ubicadas en Oran, Tartagal, Salta Capital y Jujuy), El Sol Materiales (en Yerba Buena y Lastenia, Tucuman) e Hipercat (en Catamarca), con la aclaracion de contar con 2 sucursales en Salta Capital: ATH y CHILE.
 La empresa UNIBER presenta una problemática en la gestion de devolución de pallets frente a su proveedor Loma Negra, ocacionando una pérdida económica significativa. El criterio de Loma Negra para la facturacion al cliente (UNIBER) es contar con el saldo pendiente mayor al 25% de la salida de pallets del mes, este porcentaje se considera como mercaderia en circulacion. La facturacion es un resultado de un analisis realizado el día 5 o 6 del mes siguiente, comparando la variacion entre las salidas y entradas de tarimas (despacho e ingreso de Loma Negra) y una _foto_ del total de salida del corriente mes.  
 
 A continuación, se presenta un caso:
