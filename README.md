@@ -115,7 +115,7 @@ Los camiones contratados son mayormente de Tucuman y tienen que ir hasta Catamar
 **Situacion mejorada**
 
 En la situacion actual se cuenta con dos problematicas en la cadena:
-1. El tiempo de espera que tienen los camiones para descargar debido a que hay un solo flujo en el deopisto para carga y descarga
+1. El tiempo de espera que tienen los camiones para descargar debido a que hay un solo flujo en el deposito para carga y descarga
 2. La tarifa unica que se les cobra a los clientes por envio
    
 Ante la primera problematica se propone lo siguiente:
