@@ -33,36 +33,40 @@ Grupo UNIBER es una empresa dedicada a la comercializacion de materiales de cons
 El trabajo esta referido al abastecimiento terciarizado de cemento y devolucion de pallets desde el proveedor Loma Negra, con aprovisionamiento de las sucursales de Supermat (ubicadas en Oran, Tartagal, Salta Capital y Jujuy), El Sol Materiales (en Yerba Buena y Lastenia, Tucuman) e Hipercat (en Catamarca), con la aclaracion de contar con 2 sucursales en Salta Capital: ATH y CHILE.
 La empresa UNIBER presenta una problemática en la gestion de devolución de pallets frente a su proveedor Loma Negra, ocacionando una pérdida económica significativa. El criterio de Loma Negra para la facturacion al cliente (UNIBER) es contar con el saldo pendiente mayor al 25% de la salida de pallets del mes, este porcentaje se considera como mercaderia en circulacion. La facturacion es un resultado de un analisis realizado el día 5 o 6 del mes siguiente, comparando la variacion entre las salidas y entradas de tarimas (despacho e ingreso de Loma Negra) y una _foto_ del total de salida del corriente mes.  
 
-A continuación, se presenta un caso:
+A continuación, se presenta un caso real:
 _Datos a tomar en cuenta:_ 
 
-- Sucursal: HIPERCAT (como una de las sucursales que integra Grupo UNIBER)
-- Costo unitario de tarima: $8100
-- Abastecimiento de cemento en el mes de octubre: 726 pallets de cemento, con un total de 40 bolsas de 50 Kg c/pallet.
+- Cliente de Loma Negra: SUPERMAT (Razon social que comprende parte de Grupo UNIBER)
+- Costo unitario de tarima: $11.200 + IVA
 
-En el mes de octubre se realizo una compra y abastecimiento de Loma Negra de un total de 726 pallets de cemento, contando entonces con un limite de saldo de 182 pallets (tarimas vacias) a no superar o igualar, siendo esto la _foto_ a final de mes. 
-Para un primer analisis realizado el 31/10, contamos con una saldo real de 301 pallets. 
-Entonces, nos encontramos con una diferencia de 119 tarimas faltantes (una posible facturacion de _$963.900_)
+En el mes de octubre se realizo una compra y abastecimiento de Loma Negra de un total de 370 equipos de cemento aproximadamente. Entendiento que cada transporte que llega con cemento a la sucursal, cuenta en promedio con 15 pallets de cemento, lo que nos da un total de abastecimiento de 5570 pallets despachados de fabrica. Entonces, siguiendo con el criterio del proveedor para facturacion de tarimas (pallets), deberiamos contar con un saldo de solo 1388 pallets (tarimas vacias) para el momento de analisis final realizado el 05/11. Lo que finalmente paso es que se conto con un saldo de hasta 2200 tarimas, mas de 800 por arriba del limite y para el analisis final el 05/11 con un saldo de 1750 tarimas. Lo que genero una facturacion de 400 pallets del mes de octubre. Cabe aclarar que la facturacion de pallets a clientes es de solo 140 pallets, lo que no llega a justificar el costo incurrido para una gestion deficiente en la devolucion de tarimas al proveedor. 
 
-Hasta el siguiente analisis (en este caso realizado el 06/11), la sucursal debia hacer una devolucion de minimo las 119 tarimas para no incurrir en el costo de tarimas no devueltas a fabrica. Teniendo en cuenta ademas un requerimiento de no incurrir en nuevas salidas de pallets para no hacer crecer el saldo de la sucursal. Esto parece ilogico cuando observamos que en promedio, la sucursal en octubre demando por semana una cantidad de entre 10 a 12 equipos de cemento, con 15 a 17 pallets de cemento en cada uno. Por último comentar que es el mismo transporte que trae cemento a la sucursal el que lleva las tarimas a fabrica.
+Se podria optar, en los primeros dias del mes, optar por no despachar nada de cemento y con esto no incurir en aumentar la deuda hasta el 05 del mes, periodo final de analisis. Esto presenta un inconveniente, ya que, siguiendo con el ejemplo de SUPERMAT en octubre, demanda diariamente 15 equipos de cemento aproximadamente. Esto genera un despacho de hasta 225 pallets por dia.
 
 **_Situación mejorada_**
 
 Se propone como solución: 
 A)Revisión y control del flujo de tarimas, junto con un seguimiento desde la web LOMANET clientes. Es un cambio significativo ya que la empresa únicamente vendía cemento e ignoraba la cuestión de las tarimas, actualmente se sabe cuántas de ellas ingresan a la empresa, cuantas salen y donde están, quienes son los transportistas que realizan devoluciones. 
+
 B) A los clientes con cuenta corriente emitirles conceptos facturables por las tarimas que llevan junto con el cemento, con el mismo criterio del tope del 25% que impone Loma Negra.
 C) Para los clientes de contado: 1. cargar las bolsas a granel; 2. facturarles las tarimas; 3. el cliente al momento de cargar debe ir con sus tarimas.
-D) Para una optimización de los costos logísticos, se proponen devoluciones quincenales de pallets con equipos completos a Loma Negra. Ese mismo camión que devuelve las tarimas, carga cemento para retornar a Tuc.
-Cabe destacar que cumplir con la política de devolución reduce no solamente las perdidas monetarias, sino también contribuye a reducir el impacto ambiental mediante la reutilización. Se busca una comunicacion constante entre los involucrados en el circuito de tarimas. 
 
-**Ademas, se busca llevar el stock de la sucursal a valores optimos en el ultimo dia del mes, para luego bajar el aprovisionamiento hasta fecha del analisis final. Con esto conseguimos no aumentar considerablemente el saldo de pallets. Desafortunadamente, esto aumenta la posibilidad de contar con una rotura de stock en la sucursal.** 
+D) Para una optimización de los costos logísticos, se proponen devoluciones quincenales de pallets con equipos completos a Loma Negra. Ese mismo camión que devuelve las tarimas, carga cemento para retornar a Tuc. Cabe destacar que cumplir con la política de devolución reduce no solamente las perdidas monetarias, sino también contribuye a reducir el impacto ambiental mediante la reutilización. Se busca una comunicacion constante entre los involucrados en el circuito de tarimas. 
+
+E) Ademas, se busca llevar el stock de la sucursal a valores optimos en el ultimo dia del mes, para luego bajar el aprovisionamiento hasta fecha del analisis final. Con esto conseguimos no demandar tanto cemento en los primeros dias del mes y no aumentar considerablemente el saldo de pallets. Desafortunadamente, esto aumenta la posibilidad de contar con una rotura de stock en la sucursal.
+
+
+## Implementacion - Mes de noviembre
+
+Para el mes de noviembre de implemento algunas de las ideas propuestas anteriormente, logrando resultados favorables. A continuacion informamos el comportamiento del stock de cemento de las sucursales que comprenden SUPERMAT y el resultado del analisis de tarimas del mes de noviembre, con periodos de analisis el 01/12 y el 05/12.
 
 Adjunto: 
-- Analisis de tarimas del mes de octubre de la sucursal de Hipercat
-[AnalisisPalletsOctubre_Hipercat.xlsx](https://github.com/FedericoAntonio1/TrabajoFinal-Diplomatura-Log.-CDA/files/13354141/AnalisisPalletsOctubre_Hipercat.xlsx)
+- Vease: "TarimasNoviembre_Supermat" Analisis de tarimas del mes de noviembre de la sucursal de SUPERMAT
 
-- Comportamiento del stock del mes de octubre de la sucursal. 
-[ABASTECIMIENTO Loma Negra-HIPERCAT_ OCT23.pdf](https://github.com/FedericoAntonio1/TrabajoFinal-Diplomatura-Log.-CDA/files/13354144/ABASTECIMIENTO.Loma.Negra-HIPERCAT_.OCT23.pdf)
+- Vease: "ABASTECIMIENTO LN-UNIBER NOV23.xlsx - PRESENTACION" Comportamiento del stock del mes de noviembre de la sucursales que comprenden SUPERMAT. 
+
+Cabe aclarar que los graficos de las sucursales como parametros el stock optimo que puede tener de inventario la sucursal, el 50% de la misma y un stock minimo de 2 veces la demanda diaria estimada. 
+Observamos en el analisis de tarimas que se pudo reducir de saldo negativo de 2092 tarimas a 1506 para el dia 05/12. Para el fin del mes, y con el criterio del proveedor, contamos con 1275 tarimas como el limite de tarimas que se podria deber. El resultado final es 208 pallets por arriba del limite, con un justificativo para una futura facturacion de 228 tarimas facturadas a cliente durante el mes y un desperdicio de 110 pallets.
 
 ## Proceso de la empresa y gestión logística
 
