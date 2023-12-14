@@ -87,11 +87,11 @@ Si tomamos una de las sucursales de El Sol Materiales, ubicada en San Miguel de 
 **Situacion mejorada**
 
 Para esta sucursal, se presentan *inconvenientes* como la ubicación de los corralones que piden equipos completos a domicilio. Los mismos, tienen accesos muy limitados que imposibilitan las maniobras de los camiones. En estos casos, se deben seleccionar chasis acoplados para un mejor radio de giro. 
-Otros inconvenientes, son los paros de planta de Loma Negra, las propias roturas de los camiones contratados, la complicación con los vendedores que quieren que se entreguen equipos a clientes que aún no tienen orden de compra, además de la lucha constante contra las tarifas de los transportistas que buscan maximizar ganancias mientras la empresa busca disminuir costos.
+Otros inconvenientes, son los paros de planta de Loma Negra, las propias roturas de los camiones contratados, la complicación con los vendedores que quieren que se entreguen equipos a clientes que aún no tienen orden de compra, además de la lucha constante contra las tarifas de los transportistas que buscan maximizar ganancias mientras la empresa busca disminuir costos. 
 
 Otro inconveniente que presenta el area, a la hora de realizar las entregas, es la falta de stock de uno o varios materiales a entregar en el dia. En varias ocasiones, incurre en un costo de *transferencia* (moviento de material entre sucursales), generando "ruido operacional" y en el peor de los casos, reprogramando el envio. Este costo esta visto como un mal menor y no existe seguimiento ni analisis al respecto. 
 
-**Ademas, existe la problematica sobre el canal de informacion y novedades entre cliente-vendedor-trafico. En un contexto competitivo, el vendedor esta alineado a cerrar ventas sin preocuparse por el stock del material, prometiendo un buen servicio de entrega, lo que se traduce a tiempos de entregas de menos de 2 dias.**
+Ademas, existe la problematica sobre el canal de informacion y novedades entre cliente-vendedor-trafico. En un contexto competitivo, el vendedor esta alineado a cerrar ventas sin preocuparse por el stock del material, prometiendo un buen servicio de entrega al cliente, que se traduce en tiempos de entregas de menos de 2 dias.
 
 ****PUEDO INSERTAR INDICADORES DE ENTREGA, TIEMPOS, PROPORCION DE PENDIENTES, CAIDOS POR STOCKS, TRANSFERENCIA Y COSTO REFERIDOS**
 
