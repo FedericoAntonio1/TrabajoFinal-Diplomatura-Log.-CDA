@@ -77,7 +77,7 @@ definir al menos las tres principales problemáticas_*
 
 **Situacion actual**
 
-Uniber realiza comercializacion mayorista y minorista en el rubro de la construccion, contando como clientes a empresas constructoras, corralones y consumidor final para el mercado minorista. 
+Uniber realiza comercializacion mayorista y minorista en el rubro de la construccion, teniendo como clientes a empresas constructoras, corralones y consumidores finales para el mercado minorista. 
 La empresa tiene proveedores de materiales en todo el país, algunos de ellos son: Loma Negra, Weber, Tensolite, Placo, Cerámica Alberdi, Cañuelas, Zapla y Ternium. 
 Para corralones y empresas constructoras, se les brinda un servicio de entrega en equipos completos directo desde fabrica o en la mayoria de los casos, reparto desde la empresa. Además, se tiene la opcion de retiros desde sucursal. Para las operaciones mecionadas, cada sucursal cuenta con un equipo de trafico, que varia en la cantidad de integrantes dependiendo de cada una. 
 
