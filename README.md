@@ -46,6 +46,7 @@ Se podria optar, en los primeros dias del mes, optar por no despachar nada de ce
 **_Situación mejorada_**
 
 Se propone como solución: 
+
 A)Revisión y control del flujo de tarimas, junto con un seguimiento desde la web LOMANET clientes. Es un cambio significativo ya que la empresa únicamente vendía cemento e ignoraba la cuestión de las tarimas, actualmente se sabe cuántas de ellas ingresan a la empresa, cuantas salen y donde están, quienes son los transportistas que realizan devoluciones. 
 
 B) A los clientes con cuenta corriente emitirles conceptos facturables por las tarimas que llevan junto con el cemento, con el mismo criterio del tope del 25% que impone Loma Negra.
