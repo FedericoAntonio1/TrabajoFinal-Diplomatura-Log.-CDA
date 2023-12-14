@@ -150,7 +150,7 @@ Vease *analisis de costo incurrido en transferencia-OCT23*. Datos adjuntos. (Pen
 
 Aqui es oportuno comentar que el faltante de stock se debe a una mala distribucion de las existencias. Actualmente, la sucursal de El Sol Materiales cuenta con 2 depositos, uno en San Miguel de Tucuman y otro en Lastenia. Se cuenta con un responsable del area de compras que gestiona la adquisición de materiales, como asi también las transferencias para que ningún deposito se quede sin stock. 
 Tambien vemos que las operaciones de *transferencias* (movimiento de mercaderia intersucursal) estan normalizadas por parte del equipo de trafico. Realizando diaramente/semanalmente X transferencias, con motivo de necesidad urgente para completar el pedido pendiente. Con esto incurrimos en un costo de $Y por operacion, en promedio, $X por semana/mes y una deficiencia de capacidad para el transporte empleado. 
-Actualmente solo se cuenta con pronósticos de ventas basados en ventas históricas.
+Actualmente solo se cuenta con pronósticos de ventas basadas en ventas históricas.
 
 Vease *analisis de costo incurrido en transferencia-OCT23, analisis de concurrencias de transferencias del area de trafico y tarifario de reparto local.* Datos adjuntos (Pendiente a hacer)
 
@@ -158,9 +158,12 @@ Vease *analisis de costo incurrido en transferencia-OCT23, analisis de concurren
 
  **Situacion mejorada**
 
-1. Se opto por hacer una gestion de transferencias preventiva con frecuencia semanal, realizada el dia sabado (jornada con menor necesidad de entrega). La idea es contar con un techo de $X mensual, el cual es el costo actual (Vease analisis, dato adjunto). Se busca realizar una o dos operaciones, con eficiencia en la capacidad del transporte a usar, centralizandose, en primer instancia, en el 20% del material con mayor ocurrencia.
-
-2. 
+1. Colocar objetivos claros de ventas, teniendo en cuenta la capacidad de producción de proveedores y la capacidad operativa de la empresa (recepción, almacenamiento y despacho).
+2. Rearmar la operación en base a los objetivos y pronósticos de ventas. Para esto es necesario modificar el layout de los almacenes e implementar un sistema de gestión de almacenes.
+3. Ralizar transferencias preventiva con frecuencia semanal en los puntos de reposición, evitando quiebre de stock en las sucursales. La intención es disminuir el costo actual de las transferencias (Vease analisis, dato adjunto) y evitar quiebres.
+4. Mejorar el sistema de información, permitiendo colocar diferentes puntos de entrega por cliente, viéndose reflejado en cada remito.
+5. Implementar una guía por entrega, la cual puede contener N remitos de un mismo cliente. Así mejoramos la preparación, armado, control y entrega de pedidos, disminuyendo tiempos y reclamos por pedidos mal armados.
+6. Al contar con prónosticos acertados, podemos preveer la contratación de mano de obra eventual por ejemplo en los meses fuertes (de abril a septiembre), minimizando costos y riesgos laborales. 
 
 ## Gestion de Inventario 
 ##5
@@ -217,7 +220,37 @@ Problematicas generales:
 ##Situacion mejorada##
 
 Propuestas de mejoras: 
-- Definir un stock minimo para las sucursales, y realizar proyeccion semanal. 
-##Situacion mejorada##
+1. Realizar objetivos y proyecciones semanales de ventas.
+2. Definir un stock minimo, stock máximo y puntos de reposición para las sucursales.
+3. Implementar sistema FEFO en el inventario de cementos, puesto que perecen a los 30 días de fabricado.
+4. En cuanto a los almacenes, se propone trabajar con un diagrama ABC, el cual se realiza a partir de los productos que tengan mayor rotacion. Para esto es importante contar con un informe de ventas de los principales sku. Gracias a esta medida, se puede solucionar en parte la problematica del El Sol Materiales que tiene respecto al tiempo de preparacion de los pedidos y el quiebre de stock.
 
-Se propone trabajar con un diagrama ABC, el cual se realiza a partir de los productos que tengan mayor rotacion, para esto es importante contar con un informe tanto de ventas como del encargado de mercaderia **de los sku** que mas salieron del deposito y que mas se vendieron. Esta metodologia permitira identificar los productos que tienen mayor rotacion, por lo tanto, a estos se les debera dar una mayor importancia en el deposito y asignarles un lugar cerca de la zona de preparacion de pedidos para asi ganar tiempo y combustible a la hora de realizar los pedidos. Gracias a esta medida, se puede solucionar en parte la problematica del El Sol Materiales que tiene respecto al tiempo de preparacion de los pedidos y el quiebre de stock. 
+#8 Modelo SCOR
+Situación actual: En base al cuadro de la página 61 del libro sugerido, del
+modelo SCOR indique qué indicadores pueden
+actualmente relevarse en la empresa
+Situación mejorada: En base a las mejoras propuesta, seleccione al
+menos 3 nuevos indicadores y describa brevemente
+cómo los mediría
+
+Situación actual: 
+Para relevar los indicadores que pueden aplicarse actualmente con la información disponible, nos centraremos en la P4 Planeación de la distribución:
+1. Tiempo de cliclo efectivo - efectivo
+2. tiempo de cumplimiento de la orden
+3. costos totales de distribución
+Cabe aclara que actualmente no se realizan mediciones con la metodología SCOR
+
+Situación mejorada:
+Con las mejoras propuestas en este proyecto, podríamos aplicar los siguientes indicadores:
+P1 PLANEACION DE LA CADENA DE SUMINISTRO
+1. costo de planificar el aprovisionamiento: suma de costos administrativos por emitir órdenes de compras, costos de la mercadería, flete e ingreso al almacen.
+2. tiempo de cumplimiento de orden: tiempo desde que una sucursal / cd solicita mercadería hasta que la recibe.
+
+P4 PLANEACION DE LA DISTRIBUCION
+1. tiempo de ciclo efectivo - efectivo: tiempo desde que la empresa saca a distribución las guías hasta que las cobra. 
+2. tiempo de cumplimiento de orden: tiempo desde que el cliente emite una oc y la recibe, así medir qué porcentaje de cumplimiento en las entregas tenemos (previamente establecer un objetivo de N días según localidad).
+3. costos totales de distribución: suma de costos de preparación de pedidos, out, distribución y rendición de documentación.
+
+P5 PLANEACION DE LAS DEVOLUCIONES
+1. costos de devoluciones: suma de los costos de logistica inversa, recpeción y control e ingreso en almacén.
+2. tiempo de cumplimiento de orden: tiempo desde que el cliente emite una or y la recibimos en nuestro almacén (previamente establecer un objetivo de N días según localidad).
