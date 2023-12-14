@@ -140,7 +140,7 @@ subcontratación_*
 
 **Situacion actual**
 
-La gestion de reparto local esta a cargo del area de trafico de la sucursal correspondiente. Enfocando el estudio en la sucursal de El Sol Materiales, observamos que la gestion de reparto de mercaderia a clientes (corralones y empresas constructoras) cuenta con un responsable del ruteo de la flota propia (6 camiones) y transportes tercerizados. En este aspecto, el planeamiento es con una acticipacion de 1 o 2 dias, con "cierres de dias" dependiente a pesaje total o volumen a entregar. Es decir, si hablamos de una capacidad maxima a transportar de 8 a 9 Toneladas por camion, el vendedor podra seguir asginando entregas a clientes para un dia especifico hasta cumplir con lo maximo que puede transportar la flota de la sucursal y 4 a 6 camiones tercerizados. El area cuenta ademas con un responsable para la comunicacion con el cliente, donde se realiza confirmacion de recepcion por parte del cliente y alineamiento de la hora aproximada de la entrega. 
+El proceso principal de la gestion de operaciones es el reparto local (distribución a clientes b2c y b2b), el cuál esta a cargo del area de trafico de la sucursal correspondiente. Enfocando el estudio en la sucursal de El Sol Materiales, observamos que la gestion de reparto de mercaderia a clientes (corralones y empresas constructoras) cuenta con un responsable del ruteo de la flota propia (6 camiones) y transportes tercerizados. En este aspecto, el planeamiento es con una anticipacion de 1 o 2 dias, con "cierres de dias" dependiente a pesaje total o volumen a entregar. Es decir, si hablamos de una capacidad maxima a transportar de 8 a 9 Toneladas por camion, el vendedor podra seguir asginando entregas a clientes para un dia especifico hasta cumplir con lo maximo que puede transportar la flota de la sucursal y 4 a 6 camiones tercerizados. El area cuenta ademas con un responsable para la comunicacion con el cliente, donde se realiza confirmacion de recepcion por parte del cliente y alineamiento de la hora aproximada de la entrega. 
 
 *Problematica abordada*
 
@@ -148,12 +148,13 @@ La gestion de reparto local esta a cargo del area de trafico de la sucursal corr
 
 Vease *analisis de costo incurrido en transferencia-OCT23*. Datos adjuntos. (Pendiente a hacer)
 
-Aqui es oportuno comentar que el faltante de stock es presentado como una mala distribucion de las existencias. Actualmente, la sucursal de El Sol Materiales cuenta con 2 depositos, uno en San Miguel de Tucuman y otro en Lastenia. Se cuenta con un responsable del area de compras que gestiona la compra de mucho de los materiales, como asi la distribucion del material para que ningun deposito se quede sin stock. 
-Tambien vemos que las operaciones de *transferencias* (movimiento de mercaderia intersucursal) estan normalizadas por parte del equipo de trafico. Realizando diaramente/semanalmente X transferencias, con motivo de necesidad urgente para completar el pedido pendiente. Con esto incurrimos en un costo de $Y por operacion, en promedio, $X por semana/mes y una eficiencia de capacidad para el transporte empleado. 
+Aqui es oportuno comentar que el faltante de stock se debe a una mala distribucion de las existencias. Actualmente, la sucursal de El Sol Materiales cuenta con 2 depositos, uno en San Miguel de Tucuman y otro en Lastenia. Se cuenta con un responsable del area de compras que gestiona la adquisición de materiales, como asi también las transferencias para que ningún deposito se quede sin stock. 
+Tambien vemos que las operaciones de *transferencias* (movimiento de mercaderia intersucursal) estan normalizadas por parte del equipo de trafico. Realizando diaramente/semanalmente X transferencias, con motivo de necesidad urgente para completar el pedido pendiente. Con esto incurrimos en un costo de $Y por operacion, en promedio, $X por semana/mes y una deficiencia de capacidad para el transporte empleado. 
+Actualmente solo se cuenta con pronósticos de ventas basados en ventas históricas.
 
 Vease *analisis de costo incurrido en transferencia-OCT23, analisis de concurrencias de transferencias del area de trafico y tarifario de reparto local.* Datos adjuntos (Pendiente a hacer)
 
-2. Otra problematica que presenta el area, son los casos en donde no se gestiono una actualizacion de la direccion de entrega para, en especifico, las emrpesas constructoras, donde las obras en construccion van cambiando. Esto puede generar demoras en las entregas posteriores, en las entregas pendientes y costo de hora extra en mano de obra tanto para el cliente como para la empresa.
+2. Otra problematica que presenta el area son los casos en donde no se gestiono una actualizacion de la direccion de entrega de emrpesas constructoras, donde las obras en construccion van cambiando. Esto puede generar demoras en las entregas posteriores, en las entregas pendientes y costo de hora extra en mano de obra tanto para el cliente como para la empresa.
 
  **Situacion mejorada**
 
