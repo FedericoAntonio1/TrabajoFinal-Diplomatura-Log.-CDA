@@ -93,7 +93,6 @@ Otro inconveniente que presenta el area, a la hora de realizar las entregas, es 
 
 Ademas, existe la problematica sobre el canal de informacion y novedades entre cliente-vendedor-trafico. En un contexto competitivo, el vendedor esta alineado a cerrar ventas sin preocuparse por el stock del material, prometiendo un buen servicio de entrega al cliente, que se traduce en tiempos de entregas de menos de 2 dias.
 
-****PUEDO INSERTAR INDICADORES DE ENTREGA, TIEMPOS, PROPORCION DE PENDIENTES, CAIDOS POR STOCKS, TRANSFERENCIA Y COSTO REFERIDOS**
 
 ## Funcionamiento de la cadena de abastecimiento
 *_**3.** 
