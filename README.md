@@ -75,6 +75,7 @@ Observamos en el analisis de tarimas que se pudo reducir de saldo negativo de 20
 Situacion Inicial: Defina el proceso principal de su empresa, sus entradas,
 salidas y la forma de trabajo. Indicar los proveedores,
 clientes y responsables de dicho proceso.
+
 Situacion Mejorada: Describa brevemente los inconvenientes en cuanto
 a la gestión y sobre todo en cuanto a la gestión
 logística que usted visualiza en su empresa. Debe
@@ -86,17 +87,19 @@ Uniber realiza comercializacion mayorista y minorista en el rubro de la construc
 La empresa tiene proveedores de materiales en todo el país, algunos de ellos son: Loma Negra, Weber, Tensolite, Placo, Cerámica Alberdi, Cañuelas, Zapla y Ternium. 
 Para corralones y empresas constructoras, se les brinda un servicio de entrega en equipos completos directo desde fabrica o en la mayoria de los casos, reparto desde la empresa. Además, se tiene la opcion de retiros desde sucursal. Para las operaciones mecionadas, cada sucursal cuenta con un equipo de trafico, que varia en la cantidad de integrantes dependiendo de cada una. 
 
+*Vease imagen adjunta: "Cadena de abastecimiento-grafico"*
 
-Si tomamos una de las sucursales de El Sol Materiales, ubicada en San Miguel de Tucuman, el equipo de trafico esta ingregrado por 4 personas especializadas en la entrega de materiales desde sucursal a cliente: 3 administrativos y 1 operarivo; tambien cuenta con 1 persona responsable del abastecimiento _fabrica-ElSolMateriales_ y entregas de material _fabrica-cliente_. 
+En cuento al proceso principal de UNIBER, muchos dirian que es la comercializacion, pero es un errorconcluir que no ve en los procesos de logistica y cadena de abastecimiento, un potencial diferencial en el mercado. La empresa tiene un panorama optimista para el futuro, donde el precio y la forma de pago, en un economia estable, es parecida entre la competencia. El gran diferencial en el mercado, va a ser los tiempos de entregas y la gestion de *repartos desde las sucursales*. 
 
-**Situacion mejorada**
+Actualmente, las operaciones de reparto a clientes, cuentan con una participacion del XX% sobre la facturacion total. *(Vease archivo adjunto: "Participacion logistica y CDA en FC total")*
+
+Si hablamos de la sucursal de El Sol Materiales, ubicada en San Miguel de Tucuman, el equipo de trafico esta ingregrado por 4 personas especializadas en la entrega de materiales desde sucursal a cliente: 3 administrativos y 1 operarivo; tambien cuenta con 1 persona responsable del abastecimiento _fabrica-ElSolMateriales_ y entregas de material _fabrica-cliente_. 
 
 Para esta sucursal, se presentan *inconvenientes* como la ubicación de los corralones que piden equipos completos a domicilio. Los mismos, tienen accesos muy limitados que imposibilitan las maniobras de los camiones. En estos casos, se deben seleccionar chasis acoplados para un mejor radio de giro. 
+
+Otro inconveniente que presenta el area a la hora de realizar las entregas es la falta de stock, en la sucursal donde se esta por realizar el despacho, de uno o varios materiales a entregar en el dia. Esto no sucude siempre y se debe a una mala distribucion de existencia en las sucursales existentes en una provincia en particular. Para el caso de *El Sol Materiales*, el mismo cuenta con dos sucursales, una ubicada en San Miguel de Tucuman y otra en la localidad de Lastenia. En varias ocasiones, esto trae un costo de *transferencia* (moviento de material entre sucursales), generando "ruido operacional" y en el peor de los casos, reprogramando el envio. Este costo esta visto como un mal menor y no existe seguimiento ni analisis al respecto. 
+
 Otros inconvenientes, son los paros de planta de Loma Negra, las propias roturas de los camiones contratados, la complicación con los vendedores que quieren que se entreguen equipos a clientes que aún no tienen orden de compra, además de la lucha constante contra las tarifas de los transportistas que buscan maximizar ganancias mientras la empresa busca disminuir costos. 
-
-Otro inconveniente que presenta el area, a la hora de realizar las entregas, es la falta de stock de uno o varios materiales a entregar en el dia. En varias ocasiones, incurre en un costo de *transferencia* (moviento de material entre sucursales), generando "ruido operacional" y en el peor de los casos, reprogramando el envio. Este costo esta visto como un mal menor y no existe seguimiento ni analisis al respecto. 
-
-Ademas, existe la problematica sobre el canal de informacion y novedades entre cliente-vendedor-trafico. En un contexto competitivo, el vendedor esta alineado a cerrar ventas sin preocuparse por el stock del material, prometiendo un buen servicio de entrega al cliente, que se traduce en tiempos de entregas de menos de 2 dias.
 
 
 ## Funcionamiento de la cadena de abastecimiento
