@@ -17,9 +17,8 @@ _*Empresa de referencia*: **Grupo UNIBER**_
 
 ## **_DESARROLLO DEL TRABAJO_**
 
-## Gestión del flujo de Pallets
-
-*_**1.** 
+## 1. Gestión del flujo de Pallets
+ 
 Situación Actual: Describa en hasta una página la situación actual y el
 problema detectado. Trate de utilizar números (costos,
 tiempos, unidades)
@@ -69,9 +68,8 @@ Adjunto:
 Cabe aclarar que los graficos de las sucursales como parametros el stock optimo que puede tener de inventario la sucursal, el 50% de la misma y un stock minimo de 2 veces la demanda diaria estimada. 
 Observamos en el analisis de tarimas que se pudo reducir de saldo negativo de 2092 tarimas a 1506 para el dia 05/12. Para el fin del mes, y con el criterio del proveedor, contamos con 1275 tarimas como el limite de tarimas que se podria deber. El resultado final es 208 pallets por arriba del limite, con un justificativo para una futura facturacion de 228 tarimas facturadas a cliente durante el mes y un desperdicio de 110 pallets.
 
-## Proceso de la empresa y gestión logística
+## 2. Proceso de la empresa y gestión logística
 
-*_**2.** 
 Situacion Inicial: Defina el proceso principal de su empresa, sus entradas,
 salidas y la forma de trabajo. Indicar los proveedores,
 clientes y responsables de dicho proceso.
@@ -102,8 +100,8 @@ Otro inconveniente que presenta el area a la hora de realizar las entregas es la
 Otros inconvenientes, son los paros de planta de Loma Negra, las propias roturas de los camiones contratados, la complicación con los vendedores que quieren que se entreguen equipos a clientes que aún no tienen orden de compra, además de la lucha constante contra las tarifas de los transportistas que buscan maximizar ganancias mientras la empresa busca disminuir costos. 
 
 
-## Funcionamiento de la cadena de abastecimiento
-*_**3.** 
+## 3. Funcionamiento de la cadena de abastecimiento
+
 Situación Actual: Describa gráficamente y en palabras el funcionamiento de
 la cadena de abastecimiento actual de su empresa.
 Situación mejorada: De similar forma, proponga una cadena de
@@ -133,8 +131,8 @@ Se sectorizaran los clientes de Tucuman ya que en estos momentos se le cobra la 
 
 
 
-## Gestion de cumplimiento de mercaderia en reparto 
-*_**4.** 
+## 4. Gestion de cumplimiento de mercaderia en reparto 
+
 Situación Actual: Describa brevemente cómo funciona actualmente la
 gestión de operaciones en su proceso principal y al menos
 dos problemáticas abordadas en el curso. Resalte el uso de
@@ -169,8 +167,8 @@ Vease *analisis de costo incurrido en transferencia-OCT23, analisis de concurren
 
 
 
-_**5.**_
-## Gestion de Inventario 
+
+## 5. Gestion de Inventario 
 
 *_Situcaion actual_*
 Describa brevemente cómo funciona actualmente la gestión de inventarios en su empresa y al menos dos problemáticas abordadas en el curso. Resalte el uso de pronósticos y algoritmos que se utilizan.
@@ -180,39 +178,7 @@ Describa mejoras posibles de implementar en la gestión de inventarios en relaci
 
 **Situacion actual**
 En cuanto la gestion de inventarios, vamos a seguir enfoncandonos en el cemento, y en particular al cemento CPC30 con hasta 50gr por bolsa. 
-Actualmente la empresa (UNIBER) cuanta con 3 entidades que reciben servicios del proveedor Loma Negra. Dentro de estas entidades, existen diferentes sucursales. 
-A continuacion ofrecemos una descripcion de las sucursales correspondientes a cada entidad, una ubicacion geografica, consumo diario promedio del mes de noviembre y stock optimo o maximo de la sucursal
-
-INSERTE CUADRO*
-
-Cabe aclarar que la programacion de abastecimiento de las mismas sucursales es realizado por LN (loma negra), la misma realizada con estimacion historica de cada sucursal y disponibilidad del servicio de transporte propio. 
-
-Descripcion actual por entidad/zona:
-
-ELSOLMATERIALES
-
-Recordemos que solo para el caso de la entidad El Sol Materiales, el servicio de transporte es puesto por la propia empresa. 
-
-Observamos que El Sol Materiales, cuenta con 2 sucursales de UNIBER, donde el aprovisionamiento de cemento es REACTIVO: el encargado de trafico busca mantener un stock tentativo a un 50% al 100% de ambas sucursales (SAMI y LASTENIA). Para esto hace uso de transportes contratados por la empresa y en caso de necesidad, son estos mismos transportes los que hacen el servicio de abastecimiento fabrica-cliente. 
-
-HIPERCAT
-
-Hipercat, ubicada en Catamarca es una sucursal relativamente nueva para la empresa. Dificil en cuanto a hacer estimaciones de consumo de cemento. Con un sotck optimo de 5500 bolsas. El abastecimiento de cemento es realizado por transportes puestos en su total por el proveedor (Loma Negra), con una programacion mensual y la posibilidad de realizar correcciones por parte del responsable del abastecimiento de UNIBER. 
-Hablamos entonces de una gestion de inventario REACTIVA, con modificaciones sobre la marcha y alineamientos para mantener el sotck entre un 50% y 100% del stock optimo. 
-
-
-SUPERMAT. 
-
-Supermat, comprendido con sucursales de la provincia de Salta (5 en total) y una sucursal en Jujuy, es la entidad con mayor sucursales y consideraciones a la hora de gestionar el inventario de cemento. 
-Con un abastecimiento realizado de igual forma que la sucursal de Hipercat, los transporte y la programacion es proporcionada por el proveedor. El seguimiento y las modificaciones que se deba hacer es responsable del personal de abastecimiento de UNIBER. 
-
-Contamos con las sucursales de CHILE, ATH y JUJUY, donde se puede stockear hasta 13000 bolsas y los mismos alineamientos que las sucursales mencionadas anteriormente, mantener un stock de 50% a 100%. Estas sucursales cuentan con las mayores demanda de consumo de cemento, lo que corresponde a un ingreso diario de entre 3 a 5 equipos, para cada una.  
-
-Con respecto a las sucursales de TARTAGAL y ORAN, cuentan con menor capacidad de stockear y una mayor variacion del consumo, donde podemos encontrar casos donde el cliente decide retirar cemento de la sucursal, retirando 2 equipos en el dia, la sucursal de TARTAGAL disminuye abruptamente su stock. 
-
-Observaciones generales: 
-- El cemento tiene una de la mayores rotaciones de mercaderia en el rubro, ademas cuenta con una vida util de 30 dias. 
-- Cuando hacemos mencion de 1 equipo de cemento, nos referimos a 600 bolsas de cemento aproximadamente. 
+A
 
 Problematicas generales: 
 1. 
@@ -229,8 +195,8 @@ Propuestas de mejoras:
 
 4. En cuanto a los almacenes, se propone trabajar con un diagrama ABC, el cual se realiza a partir de los productos que tengan mayor rotacion. Para esto es importante contar con un informe de ventas de los principales sku. Gracias a esta medida, se puede solucionar en parte la problematica del El Sol Materiales que tiene respecto al tiempo de preparacion de los pedidos y el quiebre de stock.
 
-_**8.**_
-## Modelo SCOR
+
+## 8. Modelo SCOR
 
 *_Situación actual:_* En base al cuadro de la página 61 del libro sugerido, del modelo SCOR indique qué indicadores pueden actualmente relevarse en la empresa.
 
