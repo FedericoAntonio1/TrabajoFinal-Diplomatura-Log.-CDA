@@ -167,23 +167,19 @@ Vease *analisis de costo incurrido en transferencia-OCT23, analisis de concurren
 
 1. Se opto por hacer una gestion de transferencias preventiva con frecuencia semanal, realizada el dia sabado (jornada con menor necesidad de entrega). La idea es contar con un techo de $X mensual, el cual es el costo actual (Vease analisis, dato adjunto). Se busca realizar una o dos operaciones, con eficiencia en la capacidad del transporte a usar, centralizandose, en primer instancia, en el 20% del material con mayor ocurrencia.
 
-2. 
 
+
+_**5.**_
 ## Gestion de Inventario 
-##5
-**Situcaion actual**
-Describa brevemente cómo funciona actualmente la
-gestión de inventarios en su empresa y al menos dos
-problemáticas abordadas en el curso. Resalte el uso de
-pronósticos y algoritmos que se utilizan
 
-**Situcaion mejorada**
-Describa mejoras posibles de implementar en la
-Gestión de inventarios en relación al uso de
-pronósticos u otra metodología que considere.
+*_Situcaion actual_*
+Describa brevemente cómo funciona actualmente la gestión de inventarios en su empresa y al menos dos problemáticas abordadas en el curso. Resalte el uso de pronósticos y algoritmos que se utilizan.
+
+*_Situcaion mejorada_*
+Describa mejoras posibles de implementar en la gestión de inventarios en relación al uso de pronósticos u otra metodología que considere.
 
 **Situacion actual**
-En cuanto la gesrion de inventarios, vamos a seguir enfoncandonos en el cemento, y en particular al cemento CPC30 con hasta 50gr por bolsa. 
+En cuanto la gestion de inventarios, vamos a seguir enfoncandonos en el cemento, y en particular al cemento CPC30 con hasta 50gr por bolsa. 
 Actualmente la empresa (UNIBER) cuanta con 3 entidades que reciben servicios del proveedor Loma Negra. Dentro de estas entidades, existen diferentes sucursales. 
 A continuacion ofrecemos una descripcion de las sucursales correspondientes a cada entidad, una ubicacion geografica, consumo diario promedio del mes de noviembre y stock optimo o maximo de la sucursal
 
@@ -224,7 +220,40 @@ Problematicas generales:
 ##Situacion mejorada##
 
 Propuestas de mejoras: 
-- Definir un stock minimo para las sucursales, y realizar proyeccion semanal. 
-##Situacion mejorada##
 
-Se propone trabajar con un diagrama ABC, el cual se realiza a partir de los productos que tengan mayor rotacion, para esto es importante contar con un informe tanto de ventas como del encargado de mercaderia **de los sku** que mas salieron del deposito y que mas se vendieron. Esta metodologia permitira identificar los productos que tienen mayor rotacion, por lo tanto, a estos se les debera dar una mayor importancia en el deposito y asignarles un lugar cerca de la zona de preparacion de pedidos para asi ganar tiempo y combustible a la hora de realizar los pedidos. Gracias a esta medida, se puede solucionar en parte la problematica del El Sol Materiales que tiene respecto al tiempo de preparacion de los pedidos y el quiebre de stock. 
+1. Realizar objetivos y proyecciones semanales de ventas.
+   
+2. Definir un stock minimo, stock máximo y puntos de reposición para las sucursales.
+
+3. Implementar sistema FEFO en el inventario de cementos, puesto que perecen a los 30 días de fabricado.
+
+4. En cuanto a los almacenes, se propone trabajar con un diagrama ABC, el cual se realiza a partir de los productos que tengan mayor rotacion. Para esto es importante contar con un informe de ventas de los principales sku. Gracias a esta medida, se puede solucionar en parte la problematica del El Sol Materiales que tiene respecto al tiempo de preparacion de los pedidos y el quiebre de stock.
+
+_**8.**_
+## Modelo SCOR
+
+*_Situación actual:_* En base al cuadro de la página 61 del libro sugerido, del modelo SCOR indique qué indicadores pueden actualmente relevarse en la empresa.
+
+*_Situación mejorada:_* En base a las mejoras propuesta, seleccione al menos 3 nuevos indicadores y describa brevemente cómo los mediría.
+
+Situación actual: 
+Para relevar los indicadores que pueden aplicarse actualmente con la información disponible, nos centraremos en la P4 Planeación de la distribución:
+1. Tiempo de cliclo efectivo - efectivo
+2. tiempo de cumplimiento de la orden
+3. costos totales de distribución
+Cabe aclara que actualmente no se realizan mediciones con la metodología SCOR
+
+Situación mejorada:
+Con las mejoras propuestas en este proyecto, podríamos aplicar los siguientes indicadores:
+P1 PLANEACION DE LA CADENA DE SUMINISTRO
+1. costo de planificar el aprovisionamiento: suma de costos administrativos por emitir órdenes de compras, costos de la mercadería, flete e ingreso al almacen.
+2. tiempo de cumplimiento de orden: tiempo desde que una sucursal / cd solicita mercadería hasta que la recibe.
+
+P4 PLANEACION DE LA DISTRIBUCION
+1. tiempo de ciclo efectivo - efectivo: tiempo desde que la empresa saca a distribución las guías hasta que las cobra. 
+2. tiempo de cumplimiento de orden: tiempo desde que el cliente emite una oc y la recibe, así medir qué porcentaje de cumplimiento en las entregas tenemos (previamente establecer un objetivo de N días según localidad).
+3. costos totales de distribución: suma de costos de preparación de pedidos, out, distribución y rendición de documentación.
+
+P5 PLANEACION DE LAS DEVOLUCIONES
+1. costos de devoluciones: suma de los costos de logistica inversa, recpeción y control e ingreso en almacén.
+2. tiempo de cumplimiento de orden: tiempo desde que el cliente emite una or y la recibimos en nuestro almacén (previamente establecer un objetivo de N días según localidad).
