@@ -131,7 +131,7 @@ Se sectorizaran los clientes de Tucuman ya que en estos momentos se le cobra la 
 
 
 
-## 4. Gestion de cumplimiento de mercaderia en reparto 
+## 4. REPARTO, Gestion de cumplimiento de mercaderia en reparto 
 
 Situación Actual: Describa brevemente cómo funciona actualmente la
 gestión de operaciones en su proceso principal y al menos
@@ -151,21 +151,28 @@ El proceso principal de la gestion de operaciones es el reparto local (distribuc
 
 1. Una problematica que presenta el area, son los casos de falta de stock para la entrega completa de un pedido. Es decir, las entregas que terminan la jornada con un estatus de *pendientes por falta de stock* o *Caidos por stock*. 
 
-Vease *analisis de costo incurrido en transferencia-OCT23*. Datos adjuntos. (Pendiente a hacer)
+Aqui es oportuno comentar que el faltante de stock se debe a una mala distribucion de las existencias. Actualmente, la sucursal de El Sol Materiales cuenta con 2 depositos, uno en San Miguel de Tucuman y otro en Lastenia. Se cuenta con un responsable del area de compras que gestiona la adquisición de materiales, como asi también las transferencias para que los depositos tengan una distribucion eficiente del stock. 
+Tambien vemos que las operaciones de *transferencias* (movimiento de mercaderia intersucursal) estan normalizadas por parte del equipo de trafico. Realizando hasta 3 operaciones semanalmente de hasta 9 toneladas cada una, con motivo de necesidad urgente para completar el pedido pendiente. Con esto incurrimos en un costo que no esta analizado y pasa desapercibido para la jefatura del area. **Vease archivo adjunto: *Info diaria Octubre 2023***
 
-Aqui es oportuno comentar que el faltante de stock se debe a una mala distribucion de las existencias. Actualmente, la sucursal de El Sol Materiales cuenta con 2 depositos, uno en San Miguel de Tucuman y otro en Lastenia. Se cuenta con un responsable del area de compras que gestiona la adquisición de materiales, como asi también las transferencias para que ningún deposito se quede sin stock. 
-Tambien vemos que las operaciones de *transferencias* (movimiento de mercaderia intersucursal) estan normalizadas por parte del equipo de trafico. Realizando diaramente/semanalmente X transferencias, con motivo de necesidad urgente para completar el pedido pendiente. Con esto incurrimos en un costo de $Y por operacion, en promedio, $X por semana/mes y una deficiencia de capacidad para el transporte empleado. 
-Actualmente solo se cuenta con pronósticos de ventas basados en ventas históricas.
+2. Otra problematica que enfrenta el area es no contar con un personal que se dedique exclusivamente en la gestion de operaciones, refiriendonos a a alguien con la responsabilidad de buscar la mejora continua de las operaciones, definir indicadores claves del area y crear cultura de reuniones, feedbacks e checkeo de informacion para todo el equipo. Actualmente el area, en sus cargos medios, no esta profesionalizada. 
 
-Vease *analisis de costo incurrido en transferencia-OCT23, analisis de concurrencias de transferencias del area de trafico y tarifario de reparto local.* Datos adjuntos (Pendiente a hacer)
+Poodemos mencionar algunos indicadores que si se analizan del area: 
 
-2. Otra problematica que presenta el area son los casos en donde no se gestiono una actualizacion de la direccion de entrega de emrpesas constructoras, donde las obras en construccion van cambiando. Esto puede generar demoras en las entregas posteriores, en las entregas pendientes y costo de hora extra en mano de obra tanto para el cliente como para la empresa.
+**Vease archivo adjunto: *Tablero Indicadores REPARTO*** 
+**Vease archivo adjunto: *Tnforme PHR - Octubre*** 
+
+a. Calidad de programacion: Mide el cumplimiento del total de hojas de rutas o reparto compremetido de la fecha. Podemos observar para el mes de octubre un total de 1158 repartos durante el mes, donde solo el 10 tuvieron incumplimiento por una deficiencia o mal programacion del area de trafico. Cabe aclarar que en el mismo mes se tuvo un incumplimiento 214 entregas, de las cuales solo 10 son consideradas como *caidas por trafico* e impactan en el indicador. 
+
+b. Cumplimientos de pendientes: En el momento que se genera un incumplimiento de entrega, el area cuenta con un tiempo de 72hs para la entrega pendiente. Este indicador mide cuanto del total de pendiente es cumplido durante ese tiempo. 
+ 
+3. Otra problematica que presenta el area son los casos en donde no se gestiono una actualizacion de la direccion de entrega de emrpesas constructoras, donde las obras en construccion van cambiando. Esto puede generar demoras en las entregas posteriores, en las entregas pendientes y costo de hora extra en mano de obra tanto para el cliente como para la empresa. Actualmente solo se cuenta con pronósticos de ventas basados en ventas históricas.
+
 
  **Situacion mejorada**
 
-1. Se opto por hacer una gestion de transferencias preventiva con frecuencia semanal, realizada el dia sabado (jornada con menor necesidad de entrega). La idea es contar con un techo de $X mensual, el cual es el costo actual (Vease analisis, dato adjunto). Se busca realizar una o dos operaciones, con eficiencia en la capacidad del transporte a usar, centralizandose, en primer instancia, en el 20% del material con mayor ocurrencia.
+Vemos oportuno la inversion en un analista de gestion, con la necesidad de crear cultura de reuniones e innovar en indicadores como *Tiempo de preparacion de pedido*, *Pedido sin reclamo*, entre otros. Otra gestion importante es hacer seguimiento del gasto de combustible de la flota, realizar un mantenimiento preventivo y alinear al personal para buscar la mejora continua en todas las operaciones. 
 
-
+Tambien observamos que una mejor comunicacion por parte del equipo comercial, en cuanto a sus objetivos de ventas, permitiria al equipo de logistica y reparto estar preparado para los picos de actividad.  
 
 
 ## 5. Gestion de Inventario 
