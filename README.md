@@ -238,6 +238,27 @@ Costo variable, que depende de la cantidad de materiales a retirar y distribuir:
 Amortizaciones de bienes de capital:
 
 
+## 7.  Area de Logistica - UNIBER
+
+
+*Situación real*
+Describa cómo está compuesto el sector de logística o bien el que lleva a cabo esta actividad. Realice un organigrama del sector. Describa las competencias del personal.
+
+*Situación mejorada*
+Hable del principal problema con el personal del sector y proponga una solución en base a lo visto en el curso.
+
+**Situación real**
+
+Como observamos en el organigrama (**Vease la imagen adjunta: *OrganigramaLogisticaUNIBER***) el area de logistica cuenta con un gerente corporativo arriba de todos, quien asume las responsabilidades alte la gerencia sobre todas las operaciones de logisticas del grupo uniber. Abajo de el, cuenta con la jefatura de cada sucursal que integra la empresa. Esta persona esta como responsable del deposito, las operaciones de reparto y son los que mayor personal a cargo tienen. Un Ej. es el jefe de operaciones y logistica de El Sol Materiales, con hasta 40 personas a cargo. Este grupo esta ingregrado por responsables de depositos, operarios de los mismos, choferes de la empresa, administrativo de logistica y operativo de reparto. 
+
+El area cuenta ademas con una de equipos corporativos, que cubre necesidades de gestion de todas las sucursales por iguales. Cuenta con la jefa de abastecimiento que divide el total de mercaderia que comercializa la empresa y realiza un analisis de abastecimiento. Este es el sector que realiza el pedido de compra y luego es el area de compra que negocia y concreta la compra del material. Esto es devuelto al area de logistica, donde el equipo de trafico gestiona la correcta disponicion de transporte desde la fabrica a sucursal. Este equipo actualmente cuenta con un leader corporativo y un analista operativo. 
+
+
+**Situación mejorada**
+
+Podemos observar una ausencia de analistas de gestion en todo el organigrama. Esto dificulta los objetivos de mejora continua y demora la estandarizacion de procesos. Se debe buscar una inversion en puestos donde brinden una visibilizacion de las posibles mejoras que implementar y la incorporacion de indicadores claves. 
+
+
 ## 8. Modelo SCOR
 
 *_Situación actual:_* En base al cuadro de la página 61 del libro sugerido, del modelo SCOR indique qué indicadores pueden actualmente relevarse en la empresa.
