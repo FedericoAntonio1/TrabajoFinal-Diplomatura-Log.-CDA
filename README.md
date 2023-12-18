@@ -58,15 +58,11 @@ E) Ademas, se busca llevar el stock de la sucursal a valores optimos en el ultim
 
 ## Implementacion - Mes de noviembre
 
-Para el mes de noviembre de implemento algunas de las ideas propuestas anteriormente, logrando resultados favorables. A continuacion informamos el comportamiento del stock de cemento de las sucursales que comprenden SUPERMAT y el resultado del analisis de tarimas del mes de noviembre, con periodos de analisis el 01/12 y el 05/12.
+Para el mes de noviembre de implemento algunas de las ideas propuestas anteriormente, logrando resultados favorables. A continuacion informamos el comportamiento del stock de cemento de las sucursales que comprenden SUPERMAT y el resultado del analisis de tarimas del mes de noviembre, con periodos de analisis el 01/12 y el 05/12. 
 
-Adjunto: 
-- Vease: "TarimasNoviembre_Supermat" Analisis de tarimas del mes de noviembre de la sucursal de SUPERMAT
+Cabe aclarar que los graficos de las sucursales (**Vease: "ABASTECIMIENTO LN-UNIBER NOV23.xlsx - PRESENTACION**) tiene como parametros el stock optimo que puede tener de inventario de la sucursal (Linea verde), el 50% de la misma (linea amarilla) y un stock minimo de 2 veces la demanda diaria estimada (linea roja). 
 
-- Vease: "ABASTECIMIENTO LN-UNIBER NOV23.xlsx - PRESENTACION" Comportamiento del stock del mes de noviembre de la sucursales que comprenden SUPERMAT. 
-
-Cabe aclarar que los graficos de las sucursales como parametros el stock optimo que puede tener de inventario la sucursal, el 50% de la misma y un stock minimo de 2 veces la demanda diaria estimada. 
-Observamos en el analisis de tarimas que se pudo reducir de saldo negativo de 2092 tarimas a 1506 para el dia 05/12. Para el fin del mes, y con el criterio del proveedor, contamos con 1275 tarimas como el limite de tarimas que se podria deber. El resultado final es 208 pallets por arriba del limite, con un justificativo para una futura facturacion de 228 tarimas facturadas a cliente durante el mes y un desperdicio de 110 pallets.
+Observamos en el analisis de tarimas (**Vease: "TarimasNoviembre_Supermat"**) que se pudo reducir de un saldo negativo de 2092 tarimas a 1506 para el dia 05/12. Vemos que anteriormente, para el fin del mes, contamos con 1275 tarimas como el limite de tarimas que se podria deber. El resultado final es 208 pallets por arriba del limite, con un justificativo de una facturacion de 228 tarimas facturadas a cliente durante el mes y un desperdicio de 110 pallets.
 
 ## 2. Proceso de la empresa y gestión logística
 
