@@ -185,13 +185,9 @@ Describa brevemente cómo funciona actualmente la gestión de inventarios en su 
 Describa mejoras posibles de implementar en la gestión de inventarios en relación al uso de pronósticos u otra metodología que considere.
 
 **Situacion actual**
-En cuanto la gestion de inventarios, vamos a seguir enfoncandonos en el cemento, y en particular al cemento CPC30 con hasta 50gr por bolsa. 
-A
+En cuanto la gestion de inventarios, podemos observar que la empresa, al comercializar en su mayoria materiales con una vida util exsesiva, puede descuidar las existencias de cemento. Este material cuenta con un vencimiento de 30 dias desde su produccion. Se apuesta a la alta rotacion del material, por eso no se realiza un seguimiento minusioso de las posiciones del mismo. Ademas existen casos en donde el cliente exige una entrega de cemento con una alta brecha de tiempo hasta el vencimiento. 
 
-Problematicas generales: 
-1. 
-
-##Situacion mejorada##
+**Situacion mejorada**
 
 Propuestas de mejoras: 
 
