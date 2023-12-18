@@ -158,9 +158,9 @@ Tambien vemos que las operaciones de *transferencias* (movimiento de mercaderia 
 
 Poodemos mencionar algunos indicadores que si se analizan del area: 
 
-**Vease archivo adjunto: *Tablero Indicadores REPARTO*** 
-
 **Vease archivo adjunto: *Tnforme PHR - Octubre*** 
+
+**Vease archivo adjunto: *Info diaria Octubre 2023***
 
 a. Calidad de programacion: Mide el cumplimiento del total de hojas de rutas o reparto compremetido de la fecha. Podemos observar para el mes de octubre un total de 1158 repartos durante el mes, donde solo el 10 tuvieron incumplimiento por una deficiencia o mal programacion del area de trafico. Cabe aclarar que en el mismo mes se tuvo un incumplimiento 214 entregas, de las cuales solo 10 son consideradas como *caidas por trafico* e impactan en el indicador. 
 
